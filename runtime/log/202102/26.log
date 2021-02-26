@@ -1,0 +1,205 @@
+---------------------------------------------------------------
+[ 2021-02-26T17:49:40+08:00 ] 172.24.0.1 HEAD dzrmbdv/
+[运行时间：0.551163s] [吞吐率：1.81req/s] [内存消耗：4,815.11kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000097s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.008626s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @app_init [ RunTime:0.000476s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000868s ]
+[ info ] [ LANG ] /data/www/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.003479s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'dzrmbdv',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.008667s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @module_init [ RunTime:0.019729s ]
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @config_init [ RunTime:0.002184s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.002013s ]
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn/index.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @action_begin [ RunTime:0.000589s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/application/index/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run \addons\loginvideo\Loginvideo @response_send [ RunTime:0.002550s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:../public/templates/modules\a\index/index/index.html[/data/www/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2021-02-26T17:49:40+08:00 ] 172.24.0.1 HEAD xdnqszvhbww/
+[运行时间：0.556607s] [吞吐率：1.80req/s] [内存消耗：4,815.11kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001416s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.014729s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @app_init [ RunTime:0.000426s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000858s ]
+[ info ] [ LANG ] /data/www/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.003572s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'xdnqszvhbww',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.010157s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @module_init [ RunTime:0.017674s ]
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @config_init [ RunTime:0.002334s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.002015s ]
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn/index.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @action_begin [ RunTime:0.000522s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/application/index/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run \addons\loginvideo\Loginvideo @response_send [ RunTime:0.002406s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:../public/templates/modules\a\index/index/index.html[/data/www/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2021-02-26T17:49:41+08:00 ] 172.24.0.1 HEAD krhonyafm/
+[运行时间：0.339094s] [吞吐率：2.95req/s] [内存消耗：4,815.12kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000138s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.006149s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @app_init [ RunTime:0.000797s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001247s ]
+[ info ] [ LANG ] /data/www/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.001142s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'krhonyafm',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.006605s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @module_init [ RunTime:0.016332s ]
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @config_init [ RunTime:0.001747s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.001501s ]
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn/index.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @action_begin [ RunTime:0.000462s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/application/index/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run \addons\loginvideo\Loginvideo @response_send [ RunTime:0.001558s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:../public/templates/modules\a\index/index/index.html[/data/www/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2021-02-26T17:49:41+08:00 ] 172.24.0.1 HEAD tgaowykdhy/
+[运行时间：0.344581s] [吞吐率：2.90req/s] [内存消耗：4,815.12kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000123s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005887s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @app_init [ RunTime:0.000569s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001073s ]
+[ info ] [ LANG ] /data/www/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.001631s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'tgaowykdhy',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.007514s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @module_init [ RunTime:0.018900s ]
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @config_init [ RunTime:0.002509s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.003637s ]
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn/index.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @action_begin [ RunTime:0.000477s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/application/index/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run \addons\loginvideo\Loginvideo @response_send [ RunTime:0.001567s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:../public/templates/modules\a\index/index/index.html[/data/www/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2021-02-26T17:49:42+08:00 ] 172.24.0.1 HEAD bjfyboytcbkit/
+[运行时间：0.289975s] [吞吐率：3.45req/s] [内存消耗：4,815.12kb] [文件加载：143]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000111s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run \addons\cms\Cms @app_init [ RunTime:0.005727s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @app_init [ RunTime:0.000636s ]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001112s ]
+[ info ] [ LANG ] /data/www/thinkphp/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @app_dispatch [ RunTime:0.001113s ]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'bjfyboytcbkit',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.009002s ]
+[ info ] [ BEHAVIOR ] Run \addons\templates\Templates @module_init [ RunTime:0.016013s ]
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @config_init [ RunTime:0.001786s ]
+[ info ] [ BEHAVIOR ] Run \addons\nkeditor\Nkeditor @config_init [ RunTime:0.001351s ]
+[ info ] [ LANG ] /data/www/public/../application/index/lang/zh-cn/index.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ BEHAVIOR ] Run \addons\geetest\Geetest @action_begin [ RunTime:0.000692s ]
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/www/application/index/controller/Index.php ]
+[ info ] [ BEHAVIOR ] Run \addons\loginvideo\Loginvideo @response_send [ RunTime:0.001507s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:../public/templates/modules\a\index/index/index.html[/data/www/thinkphp/library/think/view/driver/Think.php:82]

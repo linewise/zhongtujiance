@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+a:10:{s:8:"app_init";a:2:{i:0;s:15:"\addons\cms\Cms";i:1;s:27:"\addons\templates\Templates";}s:11:"view_filter";a:1:{i:0;s:15:"\addons\cms\Cms";}s:18:"user_sidenav_after";a:1:{i:0;s:15:"\addons\cms\Cms";}s:21:"xunsearch_config_init";a:1:{i:0;s:15:"\addons\cms\Cms";}s:21:"xunsearch_index_reset";a:1:{i:0;s:15:"\addons\cms\Cms";}s:12:"action_begin";a:1:{i:0;s:23:"\addons\geetest\Geetest";}s:11:"config_init";a:2:{i:0;s:23:"\addons\geetest\Geetest";i:1;s:25:"\addons\nkeditor\Nkeditor";}s:13:"response_send";a:1:{i:0;s:29:"\addons\loginvideo\Loginvideo";}s:11:"module_init";a:1:{i:0;s:27:"\addons\templates\Templates";}s:17:"addon_module_init";a:1:{i:0;s:27:"\addons\templates\Templates";}}

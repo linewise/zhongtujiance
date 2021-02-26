@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+body {font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#5a5a5a;margin:0;background:none;-ms-user-select:none;user-select:none;}
+html,body{overflow:hidden;-webkit-text-size-adjust:none;}
+img {border:0;}
+ol,ul,li {list-style-type:none;}
+a {text-transform:none;text-decoration:none;color:#FFF;}
+</style>
+<link rel="stylesheet" type="text/css" href="static/css/default-3.css">
+<script type="text/javascript" language="javascript" src="static/js/jquery-1.6.4.js"></script>
+<script type="text/javascript" language="javascript" src="static/js/easing.js"></script>
+<script type="text/javascript" language="javascript" src="static/js/core.js"></script>
+<script language="javascript">
+// Init global variables
+var jsdomain = 'agriculture-448.view.websiteonline.cn';//fixed 2899
+if(jsdomain.indexOf('view.sitestar.cn')>0) document.domain='sitestar.cn';
+var ceil = Math.ceil,max = Math.max,curlayerid = "#layer9E4D810F903B42ACF624EC9E0A015C2E",$parent = $(parent.document),$curlayer = $parent.find(curlayerid),
+lofpadborder = lofjslider_padborder($('.wp-jslider_content', $curlayer)),loflayerw = $curlayer.width() - lofpadborder.width,
+loflayerh = $curlayer.height() - lofpadborder.height;
+if(!loflayerw){
+    var layerdiv=$("<div/>").attr({'id':'layer9E4D810F903B42ACF624EC9E0A015C2E_content_style','style':"overflow: hidden; border-color: transparent; border-width: 0px; width: 600px; height: 340px; border-style: solid; padding: 0px;display:none;"});
+    $("link").before(layerdiv);
+    loflayerw = $(curlayerid+'_content_style').width()-lofpadborder.width;
+    loflayerh = $(curlayerid+'_content_style').height()-lofpadborder.height;
+}
+var lofborder = 2 * lofint("0"),
+lofnavshow = lofint("2")||1,lofwidth = loflayerw - lofborder,lofheight = loflayerh - lofborder;
+// Function
+function lofint(numStr){
+	var number = parseInt(numStr);
+	if(isNaN(number)) return 0;
+	return number;
+}
+function lofjslider_padborder(dom){
+	var plus = new Object(),$cstlayer = dom;
+	var bordw = lofint($cstlayer.css('borderLeftWidth')) + lofint($cstlayer.css('borderRightWidth')),
+	bordh = lofint($cstlayer.css('borderTopWidth')) + lofint($cstlayer.css('borderBottomWidth')),
+	padw = lofint($cstlayer.css('padding-left')) + lofint($cstlayer.css('padding-right')),
+	padh = lofint($cstlayer.css('padding-top')) + lofint($cstlayer.css('padding-bottom'));
+	// Assign
+	plus.width = bordw + padw;plus.height = bordh + padh;
+	$cstlayer = bordw = bordh = padw = padh = null;
+	return plus;
+}
+function setjslider_link(url, target){
+	if ($.trim(url) == '#') return false;
+	parent.window.open(url, target);
+}
+//禁用鼠标右键  CTRL+C 复制   CTRL+V  粘贴   CTRL+S 保存
+$(function(){
+	document.body.oncontextmenu=function(){return false;}
+	$(document).keydown(function(event) {
+        if ((event.ctrlKey&&event.which==67) || (event.ctrlKey&&event.which==86)) {
+            return false;
+        }        
+    })
+    $(document).keydown(function(event) {
+        if ((event.ctrlKey&&event.which==67) || (event.ctrlKey&&event.which==86) || (event.ctrlKey&&event.which==83)) {
+            return false;
+        }        
+    })
+})
+</script>
+</head>
+<body>
+<div class="lof-slidecontent" id="layer9E4D810F903B42ACF624EC9E0A015C2E_lofslider" style="border-style: none;">
+  <div class="preload"><div></div></div>
+  <div class="button-previous">Previous</div>
+<!-- MAIN CONTENT --> 
+<div class="main-slider-content">
+  <ul class="sliders-wrap-inner">
+    <li><a href="javascript:void(0);" onclick="setjslider_link('https://agriculture-448.view.websiteonline.cn/news.html','_self');return false;"><img src="static/picture/x2_7vbn.png"></a><div class="slider-description" style="display:none;background:none;;"><div class="description-wrapper"><h4><a title="" href="javascript:void(0);" onclick="setjslider_link('https://agriculture-448.view.websiteonline.cn/news.html','_self');return false;" style="font-size: 14px;"></a></h4><p style="font-size: 12px;"></p></div></div></li><li><a href="javascript:void(0);" onclick="setjslider_link('https://agriculture-448.view.websiteonline.cn/news.html','_self');return false;"><img src="static/picture/x1_qu6k.png"></a><div class="slider-description" style="display:none;background:none;;"><div class="description-wrapper"><h4><a title="" href="javascript:void(0);" onclick="setjslider_link('https://agriculture-448.view.websiteonline.cn/news.html','_self');return false;" style="font-size: 14px;"></a></h4><p style="font-size: 12px;"></p></div></div></li>  </ul>
+</div>
+<!-- END MAIN CONTENT -->
+<div class="button-next">Next</div>
+<script type="text/javascript">
+jslider_options = {
+	direction: 'opacity',
+	easing: 'easeOutBounce',
+	onComplete: function(slider, index){
+		$("#layer9E4D810F903B42ACF624EC9E0A015C2E_lofslider .slider-description").animate({height: 0});
+		slider.find(".slider-description").animate({height: max(ceil(loflayerh * 100 / 340), 75)});
+	}
+};
+$(function(){$(curlayerid+'_lofslider .main-slider-content li').height(loflayerh);});
+</script></div>
+<script type="text/javascript" language="javascript" src="static/js/core.js"></script>
+<script type="text/javascript">
+var lofsettings = jslider_options || {};
+if (!$.isPlainObject(lofsettings) || $.isEmptyObject(lofsettings)) {
+	lofsettings = {direction: 'opacitys',easing: 'easeInOutExpo',navigatorHeight: 100,navigatorWidth: 310};
+}
+jslider_options = null;
+$(function(){
+	// Init iframe max-height
+	$parent.find(curlayerid+'_frmlofjslider').height(loflayerh);
+	// buttons for next and previous item						 
+	var $lofjslider_wrapper = $(curlayerid+'_lofslider'),
+	buttons = {previous: $('.button-previous',$lofjslider_wrapper),next: $('.button-next',$lofjslider_wrapper)};
+	// Init jslider container size
+	$lofjslider_wrapper.find('.main-slider-content').width(lofwidth).height(lofheight);
+    //arrow hide
+    	// Start play
+	$lofjslider_wrapper.lofJSidernews($.extend({}, lofsettings, {
+		auto: ("1" == "1")?true:false,
+		buttons: buttons,
+			duration: 200,
+			interval: 1000 * lofint("3"),
+		mainWidth: lofwidth,
+		maxItemDisplay: lofnavshow,
+		onLoaded: function($img){jslider_imgadaptive($img, lofwidth, lofheight);}
+	}));
+                $('.button-previous',$lofjslider_wrapper).css("backgroundImage","url(https://tpl-c325d7b-pic32.websiteonline.cn/upload/Back.png)");         $('.button-next',$lofjslider_wrapper).css("backgroundImage","url(https://tpl-c325d7b-pic32.websiteonline.cn/upload/Next.png)");        	lofsettings = buttons = loflayerw = null;
+	$parent = $curlayer = $lofjslider_wrapper = null;
+});
+function jslider_imgadaptive(images, maxwidth, maxheight){
+	var $img = images,ceil = Math.ceil;
+	$img.each(function(i, img){
+		var $target = $(img),curdifw = 0,curdifh = 0;
+		if (img.width >= img.height) {
+			$target.width(maxwidth).height("auto");
+			// Auto fixed height
+			curdifh = maxheight - $target.height();
+			if (curdifh < 0) $target.css({"margin-top": ceil(curdifh / 2)+'px',"margin-left": '0px'});
+			else if (curdifh > 0) {
+				$target.height(maxheight).width("auto");
+				curdifw = maxwidth - $target.width();
+				$target.css({"margin-top": '0px',"margin-left": ceil(curdifw / 2)+'px'});
+			} else $target.css({"margin-top": '',"margin-left": ''});
+		} else {
+			$target.height(maxheight).width("auto");
+			// Auto fixed width
+			curdifw = maxwidth - $target.width();
+			if (curdifw < 0) $target.css({"margin-top": '0px',"margin-left": ceil(curdifw / 2)+'px'});
+			else if (curdifw > 0) {
+				$target.width(maxwidth).height('auto');
+				curdifh = maxheight - $target.height();
+				$target.css({"margin-top": ceil(curdifh / 2)+'px',"margin-left": '0px'});
+			} else $target.css({"margin-top": '',"margin-left": ''});
+		}
+		$target = null;
+	});
+	$img = maxwidth = maxheight = null;
+}
+</script>
+</body>
+</html>

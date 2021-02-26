@@ -1,0 +1,22 @@
+/*Gpic*/
+.Gpic{width:300px;height:412px;padding-top:5px; position:relative; margin:0 auto;}
+.cxpng{ position:absolute; left:7px; top:10px; z-index:100;}
+.Gpic .pic{width:300px; /*padding:6px;*/height:300px;position:relative;/*border:1px solid #ccc;*/ text-align:center;overflow:hidden;}
+.Gpic .pic img{  margin:0 auto;}
+
+.Xgt{width:100%;height:68px;float:left;padding:9px 0 0 0}
+.Xgt .Al{width:23px;height:68px;float:left; margin-left:2px; display:inline; }
+.Xgt .zgt{width:249px; margin-left:1px;float:left;overflow:hidden; margin-top:2px;}
+.Xgt .zgt ul{}
+.Xgt .zgt li{width:60px;float:left;height:68px; margin-right:6px;}
+.Xgt .zgt li .wp-new-prodcuts-detail-picture-small-element{border:1px solid #9c9c9c;}
+.Xgt .zgt li img{width:54px;height:54px;float:left;}
+.Xgt .Ar{width:23px;height:68px;float:left;}
+
+.Gpic .wp-new-prodcuts-detail-picture-small-element{position:relative;}
+.Gpic .pic div.imgloading,.Gpic .wp-new-prodcuts-detail-picture-small-element div.imgloading{position:absolute;left:0;top:0;}
+.Xgt .arrowimg{ cursor:pointer; }
+.Xgt .arrowimg  img{ width:23px;height:68px; }
+.Xgt .zgt li .wp-new-prodcuts-detail-picture-small-element.seled{border:2px solid #b90000;}
+ .up_arrow{ background-image:url(../image/sitestar_productdetailspage_up_a.png); background-repeat:no-repeat; width:11px; height:10px; display:block; float:left; background-color:#c2c2c2; margin-right:8px; margin-top:8px;}
+ .down_arrow{ background-image:url(../image/sitestar_productdetailspage_down.png); background-repeat:no-repeat; width:11px; height:10px; display:block; float:left; background-color:#c2c2c2; margin-right:8px; margin-top:8px;}
