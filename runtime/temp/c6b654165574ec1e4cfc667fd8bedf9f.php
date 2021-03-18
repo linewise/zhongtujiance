@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:48:"/data/www/addons/loginvideo/view/background.html";i:1598255510;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:48:"/data/www/addons/loginvideo/view/background.html";i:1614354204;}*/ ?>
 <?php if($config['background-video']): ?>
 <div id="video_wrapper">
     <video autoplay muted loop>
