@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:59:"/data/www/public/../application/site1/view/index/index.html";i:1614263310;s:52:"/data/www/application/site1/view/layout/default.html";i:1598407630;s:49:"/data/www/application/site1/view/common/meta.html";i:1598520632;s:49:"/data/www/application/site1/view/common/menu.html";i:1614699724;s:51:"/data/www/application/site1/view/common/footer.html";i:1614264592;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:59:"/data/www/public/../application/site1/view/index/index.html";i:1616076547;s:52:"/data/www/application/site1/view/layout/default.html";i:1598407630;s:49:"/data/www/application/site1/view/common/meta.html";i:1598520632;s:49:"/data/www/application/site1/view/common/menu.html";i:1614780871;s:51:"/data/www/application/site1/view/common/footer.html";i:1614781653;}*/ ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -87,8 +87,8 @@
                     moreshow="1" morecolor="darkorange" hover="1" hover_scr="0" submethod="0" umenu="0" dmenu="0"
                     sethomeurl="https://agriculture-448.view.websiteonline.cn/index.html">
                     <ul id="nav_layerC953B1BFF927C43217AB69624FE5E6C7" class="navigation" style="width:auto;">
-                        <li style="width:14.28%;z-index:2;" class="wp_subtop" pid="121"><a class="  "
-                                href="/site1"><span style="display:block;overflow:hidden;">网站首页</span></a></li>
+                        <li style="width:14.28%;z-index:2;" class="wp_subtop" pid="121"><a class="" href="/"><span
+                                    style="display:block;overflow:hidden;">网站首页</span></a></li>
                         <!--<li style="width:14.28%;z-index:2;" class="wp_subtop" pid="119"><a class="  " href="<?php echo url('industry/index'); ?>"><span style="display:block;overflow:hidden;">核心产业</span></a></li>-->
                         <!--<li style="width:14.28%;z-index:2;" class="wp_subtop" pid="123"><a class="  " href="<?php echo url('product/index'); ?>"><span style="display:block;overflow:hidden;">林木中心</span></a></li>-->
                         <!--<li style="width:14.28%;z-index:2;" class="wp_subtop" pid="126"><a class="  " href="<?php echo url('casev/index'); ?>"><span style="display:block;overflow:hidden;">客户案例</span></a></li>-->
@@ -260,8 +260,7 @@
                                 mid="" fatherid='layer31A17DEBD29A8556FD949B60D6C41B0D' deg='0'>
                                 <div class="wp-title_content"
                                     style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 20px; width: 180px; display: block;">
-                                    <font color="#ffffff" face="微软雅黑"><span style="font-size: 13px;">YEARS OF
-                                            AGRICULTURE</span></font>
+                                    <font color="#ffffff" face="微软雅黑"><span style="font-size: 13px;"></span></font>
                                 </div>
                                 <script type="text/javascript">
                                     $(function () {
@@ -280,7 +279,7 @@
                                 <div class="wp-title_content"
                                     style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 32px; width: 177px; display: block;">
                                     <span
-                                        style="font-size: 22px; font-family: 微软雅黑; color: rgb(255, 255, 255);"><strong>年专注农业发展</strong></span>
+                                        style="font-size: 22px; font-family: 微软雅黑; color: rgb(255, 255, 255);"><strong>注农业生态监测</strong></span>
                                 </div>
                             </div>
                             <script>		         $('#layer3BFBDD19431DB74AB5408F136CDD66D8').triggerHandler('layer_ready');</script>
@@ -291,7 +290,7 @@
                                     style="padding: 0px; border-color: transparent; border-width: 0px; overflow: hidden; width: 50px; height: 50px;">
                                     <a href="javascript:;" class="btnarea button_btndefault-link"
                                         style="width:46px;left:0px;top:0px;height:46px;line-height:46px;">
-                                        <span class="button_btndefault-label">4</span>
+                                        <span class="button_btndefault-label">专</span>
                                     </a>
                                     <script type="text/javascript" src="/assets/site1/js/clipboard.js"></script>
                                     <script language="javascript">$('#layer969EFA309917FCE69F3587B8B5B7F74F').layer_ready(function () {
@@ -878,7 +877,7 @@
                 <a href="<?php echo url('news/show',['id'=>25]); ?>" class="btnarea button_btndefault-link"
                     style="width:96px;left:0px;top:0px;height:32px;line-height:32px;">
                     <span class="button_btndefault-label">
-                        点我咨询
+                        点我查询
                     </span>
                 </a>
                 <script type="text/javascript" src="/assets/site1/js/clipboard.js">
@@ -1137,7 +1136,7 @@
                 style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 25px; width: 299px; display: block;">
                 <font color="#ffffff" face="微软雅黑">
                     <span style="font-size: 14px;">
-                        现在就向客服顾问咨询您要了解的问题
+                        查看我们的联系地址，进行面对面交流
                     </span>
                 </font>
             </div>
@@ -1194,7 +1193,7 @@
                 style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 39px; width: 321px; display: block;">
                 <font color="#ffffff" face="微软雅黑">
                     <span style="font-size: 24px;">
-                        联系在线客服
+                        联系我们
                     </span>
                 </font>
             </div>
