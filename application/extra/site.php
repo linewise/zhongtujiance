@@ -150,386 +150,757 @@ return array (
 </div></div>
 <script>		         $(\'#layerDFF0A9EC0C0A0A1397B15777D257893D\').triggerHandler(\'layer_ready\');</script>
 </div></div>',
-  'index_lou1_1' => '<div id="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" class="full_column" style="width:1200px;position:absolute;top:1540px;height:480px;z-index:106;"><div class="full_width" style="position:absolute;height:480px;background-color:#f4f4f4;background:;"></div><div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:480px;"><div id="layer5595F943FE8FEDC46984454E49E620DE" type="box" class="cstlayer" style="left:0px;top:110px;position:absolute;z-index:100;width:1200px;" mid="" fatherid="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;background-color:transparent;width:1200px;border-style:solid;background-position:center top;"><div id="layer000F8BAC5A497C0843A82F408F23EC73" type="picture_hover" class="cstlayer" style="left:0px;top:0px;position:absolute;z-index:229;width:1200px;" mid="" fatherid="layer5595F943FE8FEDC46984454E49E620DE" deg="0"><div class="wp-picture_hover_content" style="overflow:hidden;border-color:transparent;border-width:0px;width:1200px;border-style:solid;padding:0px;"><div class="st-slidecontent" id="layer000F8BAC5A497C0843A82F408F23EC73_stslider"><!-- MAIN CONTENT --><div class="imgloading" style="z-index:100;"></div><div class="main-pichover-content layer000F8BAC5A497C0843A82F408F23EC73"><div class="worksbox" id="worksbox0"><p class="phbox" style="text-align:right;"><img src="/uploads/20210320/f971774a5ce629eb7d6f85b8e74a152f.png" style="width:1200px;" /> </p></div></div></div></div></div></div></div><div id="layer99C1454FA8710C1BCCD703B7A21613D6" type="box" class="cstlayer" style="left:0px;top:-30px;position:absolute;z-index:242;width:60px;height:90px;" mid="" fatherid="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;"><div id="layerABC452655B697C9690AC08D86B4C9087" type="title" class="cstlayer" style="left:7.5px;top:32px;position:absolute;z-index:243;width:45px;height:44px;" mid="" fatherid="layer99C1454FA8710C1BCCD703B7A21613D6" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;"><p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span style="font-size:14px;">研发</span></span></p><p style="text-align:center;"><span style="font-size:14px;color:#FFFFFF;font-family:微软雅黑;">中心</span></p></div></div></div></div></div></div>',
-  'index_lou2_1' => '<div id="layer1DF7A519A201C7B2DEF022AB98FD2C2D" class="full_column" style="width:1200px;position:absolute;top:2090px;height:479px;z-index:107;"><div class="full_width" style="position:absolute;height:479px;background-color:#ffffff;background:;"></div><div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:479px;"><div id="layerDE28F5CBEB054CC13D7BC8EA017512F8" type="box" class="cstlayer" style="left:0px;top:190px;position:absolute;z-index:110;width:240px;height:220px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:220px;background-color:#379818;width:240px;border-style:solid;"></div></div>
-<script>		         $(\'#layerDE28F5CBEB054CC13D7BC8EA017512F8\').triggerHandler(\'layer_ready\');</script>
-<div id="layerBC67113F7A551C5AEFE65E542803714C" type="box" class="cstlayer" style="left:480px;top:190px;position:absolute;z-index:109;width:240px;height:220px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:220px;background-color:#379818;width:240px;border-style:solid;"></div></div>
-<script>		         $(\'#layerBC67113F7A551C5AEFE65E542803714C\').triggerHandler(\'layer_ready\');</script>
-<div id="layer5CF32A9BD36E9BA2616913E078EDAEA3" type="box" class="cstlayer" style="left:960px;top:190px;position:absolute;z-index:108;width:240px;height:220px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:220px;background-color:#379818;width:240px;border-style:solid;"></div></div>
-<script>		         $(\'#layer5CF32A9BD36E9BA2616913E078EDAEA3\').triggerHandler(\'layer_ready\');</script>
-<div id="layerF2240E38EF1ADF0908BD82D5BDAC019B" type="article_list" class="cstlayer" style="left:0px;top:100px;position:absolute;z-index:113;width:239px;height:309px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
-<script>
-                (function(){
-                    var param={"layer_id":"layerF2240E38EF1ADF0908BD82D5BDAC019B","articleStyle":"skin3"};
+  'index_lou1_1' => '<div id="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" class="full_column"
+    style="width:1200px;position:absolute;top:1540px;height:520px;z-index:106;">
+    <div class="full_width" style="position:absolute;height:520px;background-color:#f4f4f4;background:;"></div>
+    <div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:520px;">
+        <div id="layer5595F943FE8FEDC46984454E49E620DE" type="box" class="cstlayer"
+            style="left:0px;top:110px;position:absolute;z-index:100;width:1200px;" mid=""
+            fatherid="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;background-color:transparent;width:1200px;border-style:solid;background-position:center top;">
+                <div id="layer000F8BAC5A497C0843A82F408F23EC73" type="picture_hover" class="cstlayer"
+                    style="left:0px;top:0px;position:absolute;z-index:229;width:1200px;" mid=""
+                    fatherid="layer5595F943FE8FEDC46984454E49E620DE" deg="0">
+                    <div class="wp-picture_hover_content"
+                        style="overflow:hidden;border-color:transparent;border-width:0px;width:1200px;border-style:solid;padding:0px;">
+                        <div class="st-slidecontent" id="layer000F8BAC5A497C0843A82F408F23EC73_stslider">
+                            <!-- MAIN CONTENT -->
+                            <div class="imgloading" style="z-index:100;"></div>
+                            <div class="main-pichover-content layer000F8BAC5A497C0843A82F408F23EC73">
+                                <div class="worksbox" id="worksbox0">
+                                    <p class="phbox" style="text-align:right;"><img
+                                            src="/uploads/20210320/c7efd26aa3c9ea6baf264d079695b506.jpg"
+                                            style="width:1200px;" /> </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="layer99C1454FA8710C1BCCD703B7A21613D6" type="box" class="cstlayer"
+            style="left:0px;top:-30px;position:absolute;z-index:242;width:60px;height:90px;" mid=""
+            fatherid="layerDA8F3C9B5EAF71C7E8BD1CE873E4D2BF" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;">
+                <div id="layerABC452655B697C9690AC08D86B4C9087" type="title" class="cstlayer"
+                    style="left:7.5px;top:32px;position:absolute;z-index:243;width:45px;height:44px;" mid=""
+                    fatherid="layer99C1454FA8710C1BCCD703B7A21613D6" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;">
+                        <p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span
+                                    style="font-size:14px;">研发</span></span></p>
+                        <p style="text-align:center;"><span
+                                style="font-size:14px;color:#FFFFFF;font-family:微软雅黑;">中心</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>',
+  'index_lou2_1' => '<div id="layer1DF7A519A201C7B2DEF022AB98FD2C2D" class="full_column"
+    style="width:1200px;position:absolute;top:2190px;height:479px;z-index:107;">
+    <div class="full_width" style="position:absolute;height:479px;background-color:#ffffff;background:;"></div>
+    <div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:479px;">
+        <div id="layerDE28F5CBEB054CC13D7BC8EA017512F8" type="box" class="cstlayer"
+            style="left:0px;top:190px;position:absolute;z-index:110;width:240px;height:300px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:300px;background-color:#379818;width:240px;border-style:solid;">
+            </div>
+        </div>
+        <script>$(\'#layerDE28F5CBEB054CC13D7BC8EA017512F8\').triggerHandler(\'layer_ready\');</script>
+        <div id="layerBC67113F7A551C5AEFE65E542803714C" type="box" class="cstlayer"
+            style="left:480px;top:190px;position:absolute;z-index:109;width:240px;height:300px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:300px;background-color:#379818;width:240px;border-style:solid;">
+            </div>
+        </div>
+        <script>$(\'#layerBC67113F7A551C5AEFE65E542803714C\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer5CF32A9BD36E9BA2616913E078EDAEA3" type="box" class="cstlayer"
+            style="left:960px;top:190px;position:absolute;z-index:108;width:240px;height:300px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:300px;background-color:#379818;width:240px;border-style:solid;">
+            </div>
+        </div>
+        <script>$(\'#layer5CF32A9BD36E9BA2616913E078EDAEA3\').triggerHandler(\'layer_ready\');</script>
+        <div id="layerF2240E38EF1ADF0908BD82D5BDAC019B" type="article_list" class="cstlayer"
+            style="left:0px;top:100px;position:absolute;z-index:113;width:240px;height:409px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <script>
+                (function () {
+                    var param = { "layer_id": "layerF2240E38EF1ADF0908BD82D5BDAC019B", "articleStyle": "skin3" };
                     layer_article_list_init_func(param);
                 })()
             </script>
-<div class="wp-article_content wp-article_list_content" style="border-color:transparent;border-width:0px;overflow:hidden;width:239px;height:309px;border-style:solid;padding:0px;"><div skin="skin3" class="wp-article_css wp-article_list_css" style="display:none;">
-<script type="text/javascript">
-                            if ("skin3" === "skin3") {
-                                $(function(){
-                                    $(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\').find("ul li").hover(function(){
-                                        $(this).removeClass("lihout").addClass("lihover");
-                                    },function(){
-                                        $(this).removeClass("lihover").addClass("lihout");
-                                    });
+            <div class="wp-article_content wp-article_list_content"
+                style="border-color:transparent;border-width:0px;overflow:hidden;width:240px;height:409px;border-style:solid;padding:0px;">
+                <div skin="skin3" class="wp-article_css wp-article_list_css" style="display:none;">
+                    <script type="text/javascript">
+                        if ("skin3" === "skin3") {
+                            $(function () {
+                                $(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\').find("ul li").hover(function () {
+                                    $(this).removeClass("lihout").addClass("lihover");
+                                }, function () {
+                                    $(this).removeClass("lihover").addClass("lihout");
                                 });
+                            });
+                        }
+                    </script>
+                </div>
+                <div class="article_list-layerF2240E38EF1ADF0908BD82D5BDAC019B" style="overflow:hidden;">
+                    <ul>
+                        <li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;">
+                            <div class="imgloading" style="height:123px;width:198px;"></div>
+                            <p class="img"
+                                style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;">
+                                <img onload="set_thumb_layerF2240E38EF1ADF0908BD82D5BDAC019B(this);"
+                                    data-original="/uploads/20210321/3fe3f1018b084c27b00d407643938b7b.jpg"
+                                    class="wp-article_list-thumbnail img_lazy_load"
+                                    style="margin:0 auto;position:relative;height:125px;width:200px;" width="" height=""
+                                    title="" align="" />
+                            </p>
+                            <div class="wp-new-article-style-c">
+                                <p class="title" style="color: #ffffff;">开展耕地质量长期定位环境</p>
+                                <p class="time"><span class="wp-new-ar-pro-time">2019-03-28</span></p>
+                                <p class="abstract">
+                                    在同一地点连续开展耕地质量长期定位环境工作，在保证不串水不串肥的情况下，划分出不同的施肥小区，研究在不同施肥情况下，肥料对土壤及农作物的影响，以及长期变化趋势。</p>
+                            </div><input type="hidden" class="articleid" data-title="开展耕地质量长期定位环境" /> <input
+                                type="hidden" class="abstract"
+                                data-desc="在同一地点连续开展耕地质量长期定位环境工作，在保证不串水不串肥的情况下，划分出不同的施肥小区，研究在不同施肥情况下，肥料对土壤及农作物的影响，以及长期变化趋势。" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script language="javascript">
+                layer_img_lzld(\'layerF2240E38EF1ADF0908BD82D5BDAC019B\');
+            </script>
+            <link rel="stylesheet" type="text/css" href="/assets/site1/css/shopping_cart.css" />
+            <script type="text/javascript">
+                (function () {
+                    var params = { "layer_id": "layerF2240E38EF1ADF0908BD82D5BDAC019B", "islogin": 0 };
+                    layer_article_list_checkid_func(params);
+                    var $curlayer = $(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\');
+                    $curlayer.find(\'.mask\').mouseover(function () {
+                        var effect = $curlayer.data(\'wopop_imgeffects\');
+                        if (effect) {
+                            $(this).css(\'z-index\', \'-1001\');
+                        }
+                    })
+                    $curlayer.find(\'.wp-article_list-thumbnail\').mouseover(function (event) {
+                        $(this).data(\'over\', 1);
+                        var running = $(this).data(\'run\');
+                        var effect = $curlayer.data(\'wopop_imgeffects\');
+                        var $this = $(this);
+                        if (effect && running != 1) {
+                            $this.setimgEffects(true, effect, 1);
+                            var effectrole = effect[\'effectrole\'];
+                            var dset = effect[\'dset\'];
+                            if (effectrole != \'dantu\' && typeof (dset) != "undefined") {
+                                var temp_effect = {};
+                                temp_effect[\'type\'] = effect[\'type\'];
+                                temp_effect[\'effectrole\'] = \'dantu\';
+                                temp_effect[\'effect\'] = effect[\'dset\'][\'effect\'];
+                                temp_effect[\'duration\'] = effect[\'dset\'][\'duration\'];
+                                $this.setimgEffects(true, temp_effect, 1);
                             }
-                        </script>
-</div><div class="article_list-layerF2240E38EF1ADF0908BD82D5BDAC019B" style="overflow:hidden;"><ul><li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;"><div class="imgloading" style="height:123px;width:198px;"></div><p class="img" style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;"><a class="articleid" articleid="29" href="page128-29.html"> <img onload="set_thumb_layerF2240E38EF1ADF0908BD82D5BDAC019B(this);" alt="" src="/uploads/20210110/7663c081237ae21d51e978cffeafad0c.jpg" data-original="/assets/site1/picture/ylsj12.jpg" class="wp-article_list-thumbnail img_lazy_load" style="margin:0 auto;position:relative;height:125px;width:200px;" width="" height="" title="" align="" /> </a> </p><div class="wp-new-article-style-c"><p class="title"><a class="articleid" articleid="29" href="page128-29.html" title="白沙河湿地运动公园">白沙河湿地运动公园</a></p><p class="time"><span class="wp-new-ar-pro-time">2018-08-05</span></p><p class="abstract">由政府或公共团体建设经营，供公众游玩、观赏、娱乐的园林。有改善城市生态、防火、避难等作用</p></div><input type="hidden" class="articleid" data-title="白沙河湿地运动公园" /> <input type="hidden" class="abstract" data-desc="由政府或公共团体建设经营，供公众游玩、观赏、娱乐的园林。有改善城市生态、防火、避难等作用。资本主义初期的欧洲，一些****的园林逐渐向公众开放，形成较初的公园。" /> </li></ul></div><div class="article_list_save_itemList" opencategoryurl="0" openmoreurl="0" opendetailurl="0" pagerstyle="default/skin1" pagernum="每页显示文章数" pageralign="right" morealign="left" showpager="0" articlecategroies="5" articletags="1" linkcategoryurl="126" linkmoreurl="126" isshowmore="No" isshowmorecn="No" linkdetailurl="128" isshowdots="No" introwordnum="44" titlewordnum="12" listnum="1" sorttype="default" sortvalue="desc" articlestyle="skin3" getparamcategoryid="empty" imgwnode="200" imghnode="125" imgtnode="Tile" memberartshow="off" pageskip="2" pageop="0" pagepar="p_article_list" style="display:none;"></div></div>
-<script language="javascript">
-                    layer_img_lzld(\'layerF2240E38EF1ADF0908BD82D5BDAC019B\');
-                </script>
-<link rel="stylesheet" type="text/css" href="/assets/site1/css/shopping_cart.css" />
-<script type="text/javascript">
-                    (function(){
-                        var params={"layer_id":"layerF2240E38EF1ADF0908BD82D5BDAC019B","islogin":0};
-                        layer_article_list_checkid_func(params);
-                        var $curlayer=$(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\');
-                        $curlayer.find(\'.mask\').mouseover(function () {
-                            var effect=$curlayer.data(\'wopop_imgeffects\');
-                            if(effect){
-                                $(this).css(\'z-index\',\'-1001\');
-                            }
-                        })
-                        $curlayer.find(\'.wp-article_list-thumbnail\').mouseover(function (event) {
-                            $(this).data(\'over\',1);
-                            var running=$(this).data(\'run\');
-                            var effect=$curlayer.data(\'wopop_imgeffects\');
-                            var $this=$(this);
-                            if(effect && running!=1){
-                                $this.setimgEffects(true,effect,1);
-                                var effectrole = effect[\'effectrole\'];
-                                var dset = effect[\'dset\'];
-                                if(effectrole !=\'dantu\' && typeof(dset)!="undefined"){
-                                    var temp_effect = {};
-                                    temp_effect[\'type\'] = effect[\'type\'];
-                                    temp_effect[\'effectrole\'] = \'dantu\';
-                                    temp_effect[\'effect\'] = effect[\'dset\'][\'effect\'];
-                                    temp_effect[\'duration\'] =  effect[\'dset\'][\'duration\'];
-                                    $this.setimgEffects(true,temp_effect,1);
-                                }
-                            }
-                        });
-                    })();
-                </script>
-</div>
-<script>		         $(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\').triggerHandler(\'layer_ready\');</script>
-<div id="layer6EA38768348552367552655C0E8AA7FE" type="box" class="cstlayer" style="left:0px;top:-30px;position:absolute;z-index:111;width:60px;height:90px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;"><div id="layer1B9187012C15A52A88B806D27036F780" type="title" class="cstlayer" style="left:7.5px;top:32px;position:absolute;z-index:269;width:45px;height:44px;" mid="" fatherid="layer6EA38768348552367552655C0E8AA7FE" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;"><p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span style="font-size:14px;">客户</span></span></p><p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span style="font-size:14px;">案例</span></span></p></div></div>
-<script>		         $(\'#layer1B9187012C15A52A88B806D27036F780\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer6EA38768348552367552655C0E8AA7FE\').triggerHandler(\'layer_ready\');</script>
-<div id="layer9CC4FE450260A58C1A8A802C468CD7E1" type="article_list" class="cstlayer" style="left:240px;top:100px;position:absolute;z-index:112;width:960px;height:309px;" mid="" fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
-<script>
-                (function(){
-                    var param={"layer_id":"layer9CC4FE450260A58C1A8A802C468CD7E1","articleStyle":"skin3"};
+                        }
+                    });
+                })();
+            </script>
+        </div>
+        <script>$(\'#layerF2240E38EF1ADF0908BD82D5BDAC019B\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer6EA38768348552367552655C0E8AA7FE" type="box" class="cstlayer"
+            style="left:0px;top:-30px;position:absolute;z-index:111;width:60px;height:90px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;">
+                <div id="layer1B9187012C15A52A88B806D27036F780" type="title" class="cstlayer"
+                    style="left:7.5px;top:32px;position:absolute;z-index:269;width:45px;height:44px;" mid=""
+                    fatherid="layer6EA38768348552367552655C0E8AA7FE" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;">
+                        <p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span
+                                    style="font-size:14px;">项目</span></span></p>
+                        <p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span
+                                    style="font-size:14px;">案例</span></span></p>
+                    </div>
+                </div>
+                <script>$(\'#layer1B9187012C15A52A88B806D27036F780\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>$(\'#layer6EA38768348552367552655C0E8AA7FE\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer9CC4FE450260A58C1A8A802C468CD7E1" type="article_list" class="cstlayer"
+            style="left:240px;top:100px;position:absolute;z-index:112;width:960px;height:409px;" mid=""
+            fatherid="layer1DF7A519A201C7B2DEF022AB98FD2C2D" deg="0">
+            <script>
+                (function () {
+                    var param = { "layer_id": "layer9CC4FE450260A58C1A8A802C468CD7E1", "articleStyle": "skin3" };
                     layer_article_list_init_func(param);
                 })()
             </script>
-<div class="wp-article_content wp-article_list_content" style="border-color:transparent;border-width:0px;overflow:hidden;width:960px;height:309px;border-style:solid;padding:0px;"><div skin="skin3" class="wp-article_css wp-article_list_css" style="display:none;">
-<script type="text/javascript">
-                            if ("skin3" === "skin3") {
-                                $(function(){
-                                    $(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\').find("ul li").hover(function(){
-                                        $(this).removeClass("lihout").addClass("lihover");
-                                    },function(){
-                                        $(this).removeClass("lihover").addClass("lihout");
-                                    });
-                                });
-                            }
-                        </script>
-</div><div class="article_list-layer9CC4FE450260A58C1A8A802C468CD7E1" style="overflow:hidden;"><ul><li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;"><div class="imgloading" style="height:123px;width:198px;"></div><p class="img" style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;"><img src="/uploads/20210110/62935177f7cdf2811ce7f1c1fd647688.jpg" alt="" width="" height="" title="" align="" /></p><div class="wp-new-article-style-c"><p class="title"><a class="articleid" articleid="33" href="page128-33.html" title="高速公路绿化带项目">高速公路绿化带项目</a></p><p class="time"><span class="wp-new-ar-pro-time">2018-08-05</span></p><p class="abstract">中华人民共和国建立后，各城市的公园建设迅速发展，并创造出不同的地方风格。</p></div><input type="hidden" class="articleid" data-title="高速公路绿化带项目" /> <input type="hidden" class="abstract" data-desc="中华人民共和国建立后，各城市的公园建设迅速发展，并创造出不同的地方风格。" /> </li><li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;"><div class="imgloading" style="height:123px;width:198px;"></div><p class="img" style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;"><a class="articleid" articleid="32" href="page128-32.html"> <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);" alt="居民健身水系公园" src="/assets/site1/picture/blank.gif" data-original="/assets/site1/picture/ylsj4.jpg" class="wp-article_list-thumbnail img_lazy_load" style="margin:0 auto;position:relative;height:125px;width:200px;" /> </a> </p><div class="wp-new-article-style-c"><p class="title"><a class="articleid" articleid="32" href="page128-32.html" title="居民健身水系公园" style="color:#ffffff;">居民健身水系公园</a></p><p class="time"><span class="wp-new-ar-pro-time" style="color:#ffffff;">2018-08-05</span></p><p class="abstract" style="color:#ffffff;">公园规划通常是将造景与功能分区结合，将植物、水体、山石、建筑等按园林艺术的原理组织起来，</p></div><input type="hidden" class="articleid" data-title="居民健身水系公园" /> <input type="hidden" style="color:#ffffff;" class="abstract" data-desc="公园规划通常是将造景与功能分区结合，将植物、水体、山石、建筑等按园林艺术的原理组织起来，并设置适当的活动内容，组成景区或景点" /> </li><li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;"><div class="imgloading" style="height:123px;width:198px;"></div><p class="img" style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;"><a class="articleid" articleid="31" href="page128-31.html"> <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);" alt="国家森林公园人行道" src="/assets/site1/picture/blank.gif" data-original="/assets/site1/picture/sll1.jpg" class="wp-article_list-thumbnail img_lazy_load" style="margin:0 auto;position:relative;height:125px;width:200px;" /> </a> </p><div class="wp-new-article-style-c"><p class="title"><a class="articleid" articleid="31" href="page128-31.html" title="国家森林公园人行道">国家森林公园人行道</a></p><p class="time"><span class="wp-new-ar-pro-time">2018-08-05</span></p><p class="abstract">游乐场是公园里不可或缺的组成部分，每逢节假日、礼拜天游乐场是家长孩子、情侣、朋友等到公园</p></div><input type="hidden" class="articleid" data-title="国家森林公园人行道" /> <input type="hidden" class="abstract" data-desc="游乐场是公园里不可或缺的组成部分，每逢节假日、礼拜天游乐场是家长孩子、情侣、朋友等到公园休闲、 娱乐的必到之处。" /> </li><li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;"><div class="imgloading" style="height:123px;width:198px;"></div><p class="img" style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;"><a class="articleid" articleid="30" href="page128-30.html"> <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);" alt="别致山脚别墅动步公园" src="/assets/site1/picture/blank.gif" data-original="/assets/site1/picture/ylsj9.jpg" class="wp-article_list-thumbnail img_lazy_load" style="margin:0 auto;position:relative;height:125px;width:200px;" /> </a> </p><div class="wp-new-article-style-c"><p class="title"><a class="articleid" articleid="30" href="page128-30.html" title="别致山脚别墅动步公园" style="color:#ffffff;">别致山脚别墅动步公园</a></p><p class="time"><span class="wp-new-ar-pro-time" style="color:#ffffff;">2018-08-05</span></p><p class="abstract" style="color:#ffffff;">公园的规划设计要以一定的科学技术和艺术原则为指导，以满足游憩、观赏、环境保护等功能要求。</p></div><input type="hidden" class="articleid" data-title="别致山脚别墅动步公园" /> <input type="hidden" style="color:#ffffff;" class="abstract" data-desc="公园的规划设计要以一定的科学技术和艺术原则为指导，以满足游憩、观赏、环境保护等功能要求。" /> </li></ul></div><div class="article_list_save_itemList" opencategoryurl="0" openmoreurl="0" opendetailurl="0" pagerstyle="default/skin1" pagernum="每页显示文章数" pageralign="right" morealign="left" showpager="0" articlecategroies="5" articletags="" linkcategoryurl="126" linkmoreurl="126" isshowmore="No" isshowmorecn="No" linkdetailurl="128" isshowdots="No" introwordnum="44" titlewordnum="12" listnum="4" sorttype="default" sortvalue="desc" articlestyle="skin3" getparamcategoryid="empty" imgwnode="200" imghnode="125" imgtnode="Tile" memberartshow="off" pageskip="2" pageop="0" pagepar="p_article_list" style="display:none;"></div></div>
-<script language="javascript">
-                    layer_img_lzld(\'layer9CC4FE450260A58C1A8A802C468CD7E1\');
-                </script>
-<link rel="stylesheet" type="text/css" href="/assets/site1/css/shopping_cart.css" />
-<script type="text/javascript">
-                    (function(){
-                        var params={"layer_id":"layer9CC4FE450260A58C1A8A802C468CD7E1","islogin":0};
-                        layer_article_list_checkid_func(params);
-                        var $curlayer=$(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\');
-                        $curlayer.find(\'.mask\').mouseover(function () {
-                            var effect=$curlayer.data(\'wopop_imgeffects\');
-                            if(effect){
-                                $(this).css(\'z-index\',\'-1001\');
-                            }
-                        })
-                        $curlayer.find(\'.wp-article_list-thumbnail\').mouseover(function (event) {
-                            $(this).data(\'over\',1);
-                            var running=$(this).data(\'run\');
-                            var effect=$curlayer.data(\'wopop_imgeffects\');
-                            var $this=$(this);
-                            if(effect && running!=1){
-                                $this.setimgEffects(true,effect,1);
-                                var effectrole = effect[\'effectrole\'];
-                                var dset = effect[\'dset\'];
-                                if(effectrole !=\'dantu\' && typeof(dset)!="undefined"){
-                                    var temp_effect = {};
-                                    temp_effect[\'type\'] = effect[\'type\'];
-                                    temp_effect[\'effectrole\'] = \'dantu\';
-                                    temp_effect[\'effect\'] = effect[\'dset\'][\'effect\'];
-                                    temp_effect[\'duration\'] =  effect[\'dset\'][\'duration\'];
-                                    $this.setimgEffects(true,temp_effect,1);
-                                }
-                            }
-                        });
-                    })();
-                </script>
-</div>
-<script>		         $(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\').triggerHandler(\'layer_ready\');</script>
-</div></div>',
-  'index_lou3_1' => '<div id="layer41707DA25B4B1746D589E9FC3FE02CF7" class="full_column" style="width:1200px;position:absolute;top:2640px;height:500px;z-index:108;"><div class="full_width" style="position:absolute;height:500px;background-color:#f6f6f6;background:;"></div><div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:500px;"><div id="layer705AA5743E49DA1D5555E7ED0A86CD9E" type="box" class="cstlayer" style="left:0px;top:150px;position:absolute;z-index:102;width:300px;height:250px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;"><div id="layerCE344032F9EBA1CF904819BF465F068E" type="title" class="cstlayer" style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid="" fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;"><div style="text-align:center;"><strong><span style="font-size:14px;">耕地质量等级评价技术</span></strong></div></div></div>
-<script>		         $(\'#layerCE344032F9EBA1CF904819BF465F068E\').triggerHandler(\'layer_ready\');</script>
-<div id="layer0E72CA5500158CE018A4E42A07CDF44F" type="title" class="cstlayer" style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid="" fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;"><p style="text-align:center;"><br /></p></div></div>
-<script>		         $(\'#layer0E72CA5500158CE018A4E42A07CDF44F\').triggerHandler(\'layer_ready\');</script>
-<div id="layer256853C8E91E27CE3757EC4A008F6C8A" type="picture_hover" class="cstlayer" style="left:103px;top:0px;position:absolute;z-index:250;width:94px;height:222px;" mid="" fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0"><div class="wp-picture_hover_content" style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;"><div class="st-slidecontent" id="layer256853C8E91E27CE3757EC4A008F6C8A_stslider">
-<script type="text/javascript">
-                        </script>
-<!-- MAIN CONTENT --><div class="imgloading" style="z-index:100;"></div><div class="main-pichover-content layer256853C8E91E27CE3757EC4A008F6C8A"><div class="worksbox" id="worksbox0"><a href="/site1/industry/index.html"><p class="phbox"><img class="img_lazy_load phfront" data-original="/assets/site1/picture/h01.png" src="/assets/site1/picture/blank.gif" alt="" /><img class="phback" src="/assets/site1/picture/h1.png" alt="" /></p></a></div></div>
-<script type="text/javascript">
+            <div class="wp-article_content wp-article_list_content"
+                style="border-color:transparent;border-width:0px;overflow:hidden;width:960px;height:409px;border-style:solid;padding:0px;">
+                <div skin="skin3" class="wp-article_css wp-article_list_css" style="display:none;">
+                    <script type="text/javascript">
+                        if ("skin3" === "skin3") {
                             $(function () {
-                                var boxh = parseInt(\'222\'),boxw = parseInt(\'94\'),speed = parseInt(\'300\');
-                                $(\'.layer256853C8E91E27CE3757EC4A008F6C8A #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function(e){
-                                    var etype = e.type,
-                                            etarget = $(\'img.\'+((etype == \'mouseenter\')?\'phfront\':\'phback\'), this);
-                                    switch(\'default\'){
-                                        case \'updown_slide\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
-                                            etarget.animate({top: topval+\'px\'}, speed).siblings(\'img\').animate({top: \'0px\'}, speed);
-                                            break;
-                                        case \'leftright_slide\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
-                                            etarget.animate({left: leftval+\'px\'}, speed).siblings(\'img\').animate({left: \'0px\'}, speed);
-                                            break;
-                                        case \'rollover\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            etarget.animate({height: 0,top: (boxh / 2)+\'px\'}, speed, \'\', function(){
-                                                $(this).siblings(\'img\').animate({height: boxh+\'px\',top: 0}, speed);
-                                            });
-                                            break;
-                                        case \'magnify\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var _target = etarget,params = {};
-                                            if (etype == \'mouseenter\') {
-                                                _target = etarget.next(\'img.phback\');
-                                                params = {"top": "0px","left": "0px","height": boxh+\'px\',"width": boxw+\'px\'};
-                                            } else {
-                                                params = {"top": (boxh / 2)+"px","left": (boxw / 2)+"px","height": \'0px\',"width": \'0px\'};
-                                            }
-                                            _target.css("z-index", \'2\').animate(params, speed);
-                                            break;
-                                        default:
-                                            etarget.hide().siblings(\'img\').show();
-                                            break;
-                                    }
+                                $(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\').find("ul li").hover(function () {
+                                    $(this).removeClass("lihout").addClass("lihover");
+                                }, function () {
+                                    $(this).removeClass("lihover").addClass("lihout");
                                 });
-                                // 取消（每行）最右边图片容器的内右边距(bug#4396)
-                                if ($._parseFloat("0") > 0) {
-                                    var $B = $(\'#layer256853C8E91E27CE3757EC4A008F6C8A .worksbox\'),
-                                            bp = [];
-                                    if (bp.length > 0) for(var i in bp) $B.filter(\':eq(\'+bp[i]+\')\').addClass("linend");
-                                    else $B.filter(\':last\').addClass("linend");
-                                    bp = $B = null;
-                                }
                             });
-                        </script>
-</div></div></div>
-<script>		         $(\'#layer256853C8E91E27CE3757EC4A008F6C8A\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer705AA5743E49DA1D5555E7ED0A86CD9E\').triggerHandler(\'layer_ready\');</script>
-<div id="layer12116C7D923A4D50FF73A650B5D4320A" type="box" class="cstlayer" style="left:600px;top:150px;position:absolute;z-index:104;width:300px;height:250px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;"><div id="layer489DF2455FBE459BBBEEDF943F4A162F" type="title" class="cstlayer" style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid="" fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;"><p style="text-align:center;"><br /></p></div></div>
-<script>		         $(\'#layer489DF2455FBE459BBBEEDF943F4A162F\').triggerHandler(\'layer_ready\');</script>
-<div id="layerAB41C0CADEE2296F610FE1C0F3D71E79" type="picture_hover" class="cstlayer" style="left:103px;top:0px;position:absolute;z-index:102;width:94px;height:222px;" mid="" fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0"><div class="wp-picture_hover_content" style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;"><div class="st-slidecontent" id="layerAB41C0CADEE2296F610FE1C0F3D71E79_stslider">
-<script type="text/javascript">
+                        }
                     </script>
-<!-- MAIN CONTENT --><div class="imgloading" style="z-index:100;"></div><div class="main-pichover-content layerAB41C0CADEE2296F610FE1C0F3D71E79"><div class="worksbox" id="worksbox0"><a href="/site1/industry/index.html"><p class="phbox"><img class="img_lazy_load phfront" data-original="/assets/site1/picture/h3.png" src="/assets/site1/picture/blank.gif" alt="" /><img class="phback" src="/assets/site1/picture/h03.png" alt="" /></p></a></div></div>
-<script type="text/javascript">
-                        $(function () {
-                            var boxh = parseInt(\'222\'),boxw = parseInt(\'94\'),speed = parseInt(\'300\');
-                            $(\'.layerAB41C0CADEE2296F610FE1C0F3D71E79 #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function(e){
-                                var etype = e.type,
-                                        etarget = $(\'img.\'+((etype == \'mouseenter\')?\'phfront\':\'phback\'), this);
-                                switch(\'default\'){
-                                    case \'updown_slide\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
-                                        etarget.animate({top: topval+\'px\'}, speed).siblings(\'img\').animate({top: \'0px\'}, speed);
-                                        break;
-                                    case \'leftright_slide\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
-                                        etarget.animate({left: leftval+\'px\'}, speed).siblings(\'img\').animate({left: \'0px\'}, speed);
-                                        break;
-                                    case \'rollover\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        etarget.animate({height: 0,top: (boxh / 2)+\'px\'}, speed, \'\', function(){
-                                            $(this).siblings(\'img\').animate({height: boxh+\'px\',top: 0}, speed);
-                                        });
-                                        break;
-                                    case \'magnify\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var _target = etarget,params = {};
-                                        if (etype == \'mouseenter\') {
-                                            _target = etarget.next(\'img.phback\');
-                                            params = {"top": "0px","left": "0px","height": boxh+\'px\',"width": boxw+\'px\'};
-                                        } else {
-                                            params = {"top": (boxh / 2)+"px","left": (boxw / 2)+"px","height": \'0px\',"width": \'0px\'};
-                                        }
-                                        _target.css("z-index", \'2\').animate(params, speed);
-                                        break;
-                                    default:
-                                        etarget.hide().siblings(\'img\').show();
-                                        break;
-                                }
-                            });
-                            // 取消（每行）最右边图片容器的内右边距(bug#4396)
-                            if ($._parseFloat("0") > 0) {
-                                var $B = $(\'#layerAB41C0CADEE2296F610FE1C0F3D71E79 .worksbox\'),
-                                        bp = [];
-                                if (bp.length > 0) for(var i in bp) $B.filter(\':eq(\'+bp[i]+\')\').addClass("linend");
-                                else $B.filter(\':last\').addClass("linend");
-                                bp = $B = null;
-                            }
-                        });
-                    </script>
-</div></div></div>
-<script>		         $(\'#layerAB41C0CADEE2296F610FE1C0F3D71E79\').triggerHandler(\'layer_ready\');</script>
-<div id="layer3985BDCAE9007D1CE38BB48AC69C0801" type="title" class="cstlayer" style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid="" fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;"><div style="text-align:center;"><strong><span style="font-size:14px;">植物检测技术<span style="font-size:16px;"></span></span></strong><br /></div></div></div>
-<script>		         $(\'#layer3985BDCAE9007D1CE38BB48AC69C0801\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer12116C7D923A4D50FF73A650B5D4320A\').triggerHandler(\'layer_ready\');</script>
-<div id="layer5F8D8DBFF005770E7439C2F98A0F07A2" type="box" class="cstlayer" style="left:900px;top:150px;position:absolute;z-index:112;width:300px;height:250px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;"><div id="layer23ED265635D607D58B548940B8608124" type="title" class="cstlayer" style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid="" fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;"><div style="text-align:center;"><strong><span style="font-size:14px;">水质检测技术</span><span style="font-size:14px;"></span></strong><br /></div></div></div>
-<script>		         $(\'#layer23ED265635D607D58B548940B8608124\').triggerHandler(\'layer_ready\');</script>
-<div id="layer2CA999A0D0734AD8C491CC6753B3EAB3" type="title" class="cstlayer" style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid="" fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;"><p style="text-align:center;"><br /></p></div></div>
-<script>		         $(\'#layer2CA999A0D0734AD8C491CC6753B3EAB3\').triggerHandler(\'layer_ready\');</script>
-<div id="layer949337C7D6C44900A4E264CA43348EF9" type="picture_hover" class="cstlayer" style="left:103px;top:0px;position:absolute;z-index:289;width:94px;height:222px;" mid="" fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0"><div class="wp-picture_hover_content" style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;"><div class="st-slidecontent" id="layer949337C7D6C44900A4E264CA43348EF9_stslider">
-<script type="text/javascript">
-                    </script>
-<!-- MAIN CONTENT --><div class="imgloading" style="z-index:100;"></div><div class="main-pichover-content layer949337C7D6C44900A4E264CA43348EF9"><div class="worksbox" id="worksbox0"><a href="/site1/industry/index.html"><p class="phbox"><img class="img_lazy_load phfront" data-original="/assets/site1/picture/h4.png" src="/assets/site1/picture/blank.gif" alt="" /><img class="phback" src="/assets/site1/picture/h04.png" alt="" /></p></a></div></div>
-<script type="text/javascript">
-                        $(function () {
-                            var boxh = parseInt(\'222\'),boxw = parseInt(\'94\'),speed = parseInt(\'300\');
-                            $(\'.layer949337C7D6C44900A4E264CA43348EF9 #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function(e){
-                                var etype = e.type,
-                                        etarget = $(\'img.\'+((etype == \'mouseenter\')?\'phfront\':\'phback\'), this);
-                                switch(\'default\'){
-                                    case \'updown_slide\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
-                                        etarget.animate({top: topval+\'px\'}, speed).siblings(\'img\').animate({top: \'0px\'}, speed);
-                                        break;
-                                    case \'leftright_slide\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
-                                        etarget.animate({left: leftval+\'px\'}, speed).siblings(\'img\').animate({left: \'0px\'}, speed);
-                                        break;
-                                    case \'rollover\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        etarget.animate({height: 0,top: (boxh / 2)+\'px\'}, speed, \'\', function(){
-                                            $(this).siblings(\'img\').animate({height: boxh+\'px\',top: 0}, speed);
-                                        });
-                                        break;
-                                    case \'magnify\':
-                                        if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                        var _target = etarget,params = {};
-                                        if (etype == \'mouseenter\') {
-                                            _target = etarget.next(\'img.phback\');
-                                            params = {"top": "0px","left": "0px","height": boxh+\'px\',"width": boxw+\'px\'};
-                                        } else {
-                                            params = {"top": (boxh / 2)+"px","left": (boxw / 2)+"px","height": \'0px\',"width": \'0px\'};
-                                        }
-                                        _target.css("z-index", \'2\').animate(params, speed);
-                                        break;
-                                    default:
-                                        etarget.hide().siblings(\'img\').show();
-                                        break;
-                                }
-                            });
-                            // 取消（每行）最右边图片容器的内右边距(bug#4396)
-                            if ($._parseFloat("0") > 0) {
-                                var $B = $(\'#layer949337C7D6C44900A4E264CA43348EF9 .worksbox\'),
-                                        bp = [];
-                                if (bp.length > 0) for(var i in bp) $B.filter(\':eq(\'+bp[i]+\')\').addClass("linend");
-                                else $B.filter(\':last\').addClass("linend");
-                                bp = $B = null;
-                            }
-                        });
-                    </script>
-</div></div></div>
-<script>		         $(\'#layer949337C7D6C44900A4E264CA43348EF9\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer5F8D8DBFF005770E7439C2F98A0F07A2\').triggerHandler(\'layer_ready\');</script>
-<div id="layerF89BC2239B05A5853DB667E1AA5D8BB5" type="line" class="cstlayer" style="left:0px;top:180px;position:absolute;z-index:100;width:1200px;height:31px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-line_content" style="padding:0px;border-color:transparent;border-width:0px;overflow:hidden;width:1200px;height:31px;border-style:solid;"><div class="wpline-wrapper horizontal-solid"></div>
-<script language="javascript">
+                </div>
+                <div class="article_list-layer9CC4FE450260A58C1A8A802C468CD7E1" style="overflow:hidden;">
+                    <ul>
+                        <li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;">
+                            <div class="imgloading" style="height:123px;width:198px;"></div>
+                            <p class="img"
+                                style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;">
+                                <img src="/uploads/20210321/86940cd817aeee82b61bdfc4d9fa8e1c.jpg" alt="" width=""
+                                    height="" title="" align="" />
+                            </p>
+                            <div class="wp-new-article-style-c">
+                                <p class="title">实施田间肥效试验项目</p>
+                                <p class="time"><span class="wp-new-ar-pro-time">2020-12-09</span></p>
+                                <p class="abstract">1.研究氮肥、磷肥、钾肥等单一肥料对于不同作物的最合理的施用量。
+                                    2.在相同面积，种植数量不同的农作物，研究种植密度对农作物产量的影响程度，最终得出最适宜的种植密度。</p>
+                            </div><input type="hidden" class="articleid" data-title="实施田间肥效试验项目" /> <input type="hidden"
+                                class="abstract"
+                                data-desc="1.研究氮肥、磷肥、钾肥等单一肥料对于不同作物的最合理的施用量。 2.在相同面积，种植数量不同的农作物，研究种植密度对农作物产量的影响程度，最终得出最适宜的种植密度。" />
+                        </li>
+                        <li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;">
+                            <div class="imgloading" style="height:123px;width:198px;"></div>
+                            <p class="img"
+                                style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;">
+                                <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);" alt="耕地质量调查采集及分析化验"
+                                    src="/assets/site1/picture/blank.gif"
+                                    data-original="/uploads/20210321/47423cc209572555f43cfc3e612fc408.jpg"
+                                    class="wp-article_list-thumbnail img_lazy_load"
+                                    style="margin:0 auto;position:relative;height:125px;width:200px;" /></p>
+                            <div class="wp-new-article-style-c">
+                                <p class="title" style="color:#ffffff;">耕地质量调查采集及分析化验</p>
+                                <p class="time"><span class="wp-new-ar-pro-time"
+                                        style="color:#ffffff;">2020-11-03</span></p>
+                                <p class="abstract" style="color:#ffffff;">
+                                    对研究地域的耕地进行规划布点，实地进行耕地质量调查，取样，化验分析，研究土壤地力情况，为耕地质量等级评价提供科学依据。</p>
+                            </div><input type="hidden" class="articleid" data-title="耕地质量调查采集及分析化验" /> <input
+                                type="hidden" style="color:#ffffff;" class="abstract"
+                                data-desc="对研究地域的耕地进行规划布点，实地进行耕地质量调查，取样，化验分析，研究土壤地力情况，为耕地质量等级评价提供科学依据。" />
+                        </li>
+                        <li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;">
+                            <div class="imgloading" style="height:123px;width:198px;"></div>
+                            <p class="img"
+                                style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;">
+                                <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);"
+                                    alt="乡村振兴之适宜种植作物土壤调查与评价项目" src="/assets/site1/picture/blank.gif"
+                                    data-original="/uploads/20210321/758efefb3ec754005df19702f2315a2a.jpg"
+                                    class="wp-article_list-thumbnail img_lazy_load"
+                                    style="margin:0 auto;position:relative;height:125px;width:200px;" /></p>
+                            <div class="wp-new-article-style-c">
+                                <p class="title">乡村振兴之适宜种植作物土壤调查与评价项目</p>
+                                <p class="time"><span class="wp-new-ar-pro-time">2020-06-08</span></p>
+                                <p class="abstract">对研究区域进行规划布点，实地进行调查、取样、化验分析，分析得出该地域的耕地质量和污染情况，为该区域适宜种植相应作物提供科学参考。</p>
+                            </div><input type="hidden" class="articleid" data-title="乡村振兴之适宜种植作物土壤调查与评价项目" /> <input
+                                type="hidden" class="abstract"
+                                data-desc="对研究区域进行规划布点，实地进行调查、取样、化验分析，分析得出该地域的耕地质量和污染情况，为该区域适宜种植相应作物提供科学参考。" />
+                        </li>
+                        <li class="lihout" style="width:200px;margin-right:0px;margin-bottom:10px;padding:17px;">
+                            <div class="imgloading" style="height:123px;width:198px;"></div>
+                            <p class="img"
+                                style="height:125px;width:200px;text-align:center;overflow:hidden;position:relative;">
+                                <img onload="set_thumb_layer9CC4FE450260A58C1A8A802C468CD7E1(this);"
+                                    alt="耕地质量数据库建设与评价项目" src="/assets/site1/picture/blank.gif"
+                                    data-original="/uploads/20210321/a9c9ad5a9ba8a9b4b94ffaf6fe057479.jpg"
+                                    class="wp-article_list-thumbnail img_lazy_load"
+                                    style="margin:0 auto;position:relative;height:125px;width:200px;" /></p>
+                            <div class="wp-new-article-style-c">
+                                <p class="title" style="color:#ffffff;">耕地质量数据库建设与评价项目</p>
+                                <p class="time"><span class="wp-new-ar-pro-time"
+                                        style="color:#ffffff;">2020-10-15</span></p>
+                                <p class="abstract" style="color:#ffffff;">
+                                    将耕地资源管理单元图与调查点位信息、相关耕地质量性状专题图件叠加，采取空间插值、属性提取、数据关联等方法，为每一个评价单元赋值，形成集图形、属性为一体的耕地质量数据库及对耕地质量等级进行评价。
+                                </p>
+                            </div><input type="hidden" class="articleid" data-title="耕地质量数据库建设与评价项目" /> <input
+                                type="hidden" style="color:#ffffff;" class="abstract"
+                                data-desc="将耕地资源管理单元图与调查点位信息、相关耕地质量性状专题图件叠加，采取空间插值、属性提取、数据关联等方法，为每一个评价单元赋值，形成集图形、属性为一体的耕地质量数据库及对耕地质量等级进行评价。" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <script language="javascript">
+                layer_img_lzld(\'layer9CC4FE450260A58C1A8A802C468CD7E1\');
             </script>
-</div></div>
-<script>		         $(\'#layerF89BC2239B05A5853DB667E1AA5D8BB5\').triggerHandler(\'layer_ready\');</script>
-<div id="layer9454EFCFE4E44971825A86D4313A7C13" type="box" class="cstlayer" style="left:300px;top:150px;position:absolute;z-index:103;width:300px;height:250px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;"><div id="layerD23ADF0C559C9E50D4D8105864F7D41A" type="picture_hover" class="cstlayer" style="left:103px;top:0px;position:absolute;z-index:281;width:94px;height:222px;" mid="" fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0"><div class="wp-picture_hover_content" style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;"><div class="st-slidecontent" id="layerD23ADF0C559C9E50D4D8105864F7D41A_stslider">
-<script type="text/javascript">
-                        </script>
-<!-- MAIN CONTENT --><div class="imgloading" style="z-index:100;"></div><div class="main-pichover-content layerD23ADF0C559C9E50D4D8105864F7D41A"><div class="worksbox" id="worksbox0"><a href="/site1/industry/index.html"><p class="phbox"><img class="img_lazy_load phfront" data-original="/assets/site1/picture/h2.png" src="/assets/site1/picture/blank.gif" alt="" /><img class="phback" src="/assets/site1/picture/h02.png" alt="" /></p></a></div></div>
-<script type="text/javascript">
-                            $(function () {
-                                var boxh = parseInt(\'222\'),boxw = parseInt(\'94\'),speed = parseInt(\'300\');
-                                $(\'.layerD23ADF0C559C9E50D4D8105864F7D41A #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function(e){
-                                    var etype = e.type,
-                                            etarget = $(\'img.\'+((etype == \'mouseenter\')?\'phfront\':\'phback\'), this);
-                                    switch(\'default\'){
-                                        case \'updown_slide\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
-                                            etarget.animate({top: topval+\'px\'}, speed).siblings(\'img\').animate({top: \'0px\'}, speed);
-                                            break;
-                                        case \'leftright_slide\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
-                                            etarget.animate({left: leftval+\'px\'}, speed).siblings(\'img\').animate({left: \'0px\'}, speed);
-                                            break;
-                                        case \'rollover\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            etarget.animate({height: 0,top: (boxh / 2)+\'px\'}, speed, \'\', function(){
-                                                $(this).siblings(\'img\').animate({height: boxh+\'px\',top: 0}, speed);
-                                            });
-                                            break;
-                                        case \'magnify\':
-                                            if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
-                                            var _target = etarget,params = {};
-                                            if (etype == \'mouseenter\') {
-                                                _target = etarget.next(\'img.phback\');
-                                                params = {"top": "0px","left": "0px","height": boxh+\'px\',"width": boxw+\'px\'};
-                                            } else {
-                                                params = {"top": (boxh / 2)+"px","left": (boxw / 2)+"px","height": \'0px\',"width": \'0px\'};
-                                            }
-                                            _target.css("z-index", \'2\').animate(params, speed);
-                                            break;
-                                        default:
-                                            etarget.hide().siblings(\'img\').show();
-                                            break;
+            <link rel="stylesheet" type="text/css" href="/assets/site1/css/shopping_cart.css" />
+            <script type="text/javascript">
+                (function () {
+                    var params = { "layer_id": "layer9CC4FE450260A58C1A8A802C468CD7E1", "islogin": 0 };
+                    layer_article_list_checkid_func(params);
+                    var $curlayer = $(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\');
+                    $curlayer.find(\'.mask\').mouseover(function () {
+                        var effect = $curlayer.data(\'wopop_imgeffects\');
+                        if (effect) {
+                            $(this).css(\'z-index\', \'-1001\');
+                        }
+                    })
+                    $curlayer.find(\'.wp-article_list-thumbnail\').mouseover(function (event) {
+                        $(this).data(\'over\', 1);
+                        var running = $(this).data(\'run\');
+                        var effect = $curlayer.data(\'wopop_imgeffects\');
+                        var $this = $(this);
+                        if (effect && running != 1) {
+                            $this.setimgEffects(true, effect, 1);
+                            var effectrole = effect[\'effectrole\'];
+                            var dset = effect[\'dset\'];
+                            if (effectrole != \'dantu\' && typeof (dset) != "undefined") {
+                                var temp_effect = {};
+                                temp_effect[\'type\'] = effect[\'type\'];
+                                temp_effect[\'effectrole\'] = \'dantu\';
+                                temp_effect[\'effect\'] = effect[\'dset\'][\'effect\'];
+                                temp_effect[\'duration\'] = effect[\'dset\'][\'duration\'];
+                                $this.setimgEffects(true, temp_effect, 1);
+                            }
+                        }
+                    });
+                })();
+            </script>
+        </div>
+        <script>$(\'#layer9CC4FE450260A58C1A8A802C468CD7E1\').triggerHandler(\'layer_ready\');</script>
+    </div>
+</div>',
+  'index_lou3_1' => '<div id="layer41707DA25B4B1746D589E9FC3FE02CF7" class="full_column"
+    style="width:1200px;position:absolute;top:2840px;height:500px;z-index:108;">
+    <div class="full_width" style="position:absolute;height:500px;background-color:#f6f6f6;background:;"></div>
+    <div class="full_content" style="width:1200px;position:absolute;left:0;top:0;margin-left:0px;height:500px;">
+        <div id="layer705AA5743E49DA1D5555E7ED0A86CD9E" type="box" class="cstlayer"
+            style="left:0px;top:150px;position:absolute;z-index:102;width:300px;height:250px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;">
+                <div id="layerCE344032F9EBA1CF904819BF465F068E" type="title" class="cstlayer"
+                    style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid=""
+                    fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;">
+                        <div style="text-align:center;"><strong><span style="font-size:14px;">耕地质量等级评价技术</span></strong>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layerCE344032F9EBA1CF904819BF465F068E\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer0E72CA5500158CE018A4E42A07CDF44F" type="title" class="cstlayer"
+                    style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid=""
+                    fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;">
+                        <p style="text-align:center;"><br /></p>
+                    </div>
+                </div>
+                <script>		         $(\'#layer0E72CA5500158CE018A4E42A07CDF44F\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer256853C8E91E27CE3757EC4A008F6C8A" type="picture_hover" class="cstlayer"
+                    style="left:103px;top:0px;position:absolute;z-index:250;width:94px;height:222px;" mid=""
+                    fatherid="layer705AA5743E49DA1D5555E7ED0A86CD9E" deg="0">
+                    <div class="wp-picture_hover_content"
+                        style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;">
+                        <div class="st-slidecontent" id="layer256853C8E91E27CE3757EC4A008F6C8A_stslider">
+                            <script type="text/javascript">
+                            </script>
+                            <!-- MAIN CONTENT -->
+                            <div class="imgloading" style="z-index:100;"></div>
+                            <div class="main-pichover-content layer256853C8E91E27CE3757EC4A008F6C8A">
+                                <div class="worksbox" id="worksbox0">
+                                    <p class="phbox"><img class="img_lazy_load phfront"
+                                            data-original="/assets/site1/picture/h01.png"
+                                            src="/assets/site1/picture/blank.gif" alt="" /><img class="phback"
+                                            src="/assets/site1/picture/h1.png" alt="" /></p>
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function () {
+                                    var boxh = parseInt(\'222\'), boxw = parseInt(\'94\'), speed = parseInt(\'300\');
+                                    $(\'.layer256853C8E91E27CE3757EC4A008F6C8A #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function (e) {
+                                        var etype = e.type,
+                                            etarget = $(\'img.\' + ((etype == \'mouseenter\') ? \'phfront\' : \'phback\'), this);
+                                        switch (\'default\') {
+                                            case \'updown_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
+                                                etarget.animate({ top: topval + \'px\' }, speed).siblings(\'img\').animate({ top: \'0px\' }, speed);
+                                                break;
+                                            case \'leftright_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
+                                                etarget.animate({ left: leftval + \'px\' }, speed).siblings(\'img\').animate({ left: \'0px\' }, speed);
+                                                break;
+                                            case \'rollover\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                etarget.animate({ height: 0, top: (boxh / 2) + \'px\' }, speed, \'\', function () {
+                                                    $(this).siblings(\'img\').animate({ height: boxh + \'px\', top: 0 }, speed);
+                                                });
+                                                break;
+                                            case \'magnify\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var _target = etarget, params = {};
+                                                if (etype == \'mouseenter\') {
+                                                    _target = etarget.next(\'img.phback\');
+                                                    params = { "top": "0px", "left": "0px", "height": boxh + \'px\', "width": boxw + \'px\' };
+                                                } else {
+                                                    params = { "top": (boxh / 2) + "px", "left": (boxw / 2) + "px", "height": \'0px\', "width": \'0px\' };
+                                                }
+                                                _target.css("z-index", \'2\').animate(params, speed);
+                                                break;
+                                            default:
+                                                etarget.hide().siblings(\'img\').show();
+                                                break;
+                                        }
+                                    });
+                                    // 取消（每行）最右边图片容器的内右边距(bug#4396)
+                                    if ($._parseFloat("0") > 0) {
+                                        var $B = $(\'#layer256853C8E91E27CE3757EC4A008F6C8A .worksbox\'),
+                                            bp = [];
+                                        if (bp.length > 0) for (var i in bp) $B.filter(\':eq(\' + bp[i] + \')\').addClass("linend");
+                                        else $B.filter(\':last\').addClass("linend");
+                                        bp = $B = null;
                                     }
                                 });
-                                // 取消（每行）最右边图片容器的内右边距(bug#4396)
-                                if ($._parseFloat("0") > 0) {
-                                    var $B = $(\'#layerD23ADF0C559C9E50D4D8105864F7D41A .worksbox\'),
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layer256853C8E91E27CE3757EC4A008F6C8A\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>		         $(\'#layer705AA5743E49DA1D5555E7ED0A86CD9E\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer12116C7D923A4D50FF73A650B5D4320A" type="box" class="cstlayer"
+            style="left:600px;top:150px;position:absolute;z-index:104;width:300px;height:250px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;">
+                <div id="layer489DF2455FBE459BBBEEDF943F4A162F" type="title" class="cstlayer"
+                    style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid=""
+                    fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;">
+                        <p style="text-align:center;"><br /></p>
+                    </div>
+                </div>
+                <script>		         $(\'#layer489DF2455FBE459BBBEEDF943F4A162F\').triggerHandler(\'layer_ready\');</script>
+                <div id="layerAB41C0CADEE2296F610FE1C0F3D71E79" type="picture_hover" class="cstlayer"
+                    style="left:103px;top:0px;position:absolute;z-index:102;width:94px;height:222px;" mid=""
+                    fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0">
+                    <div class="wp-picture_hover_content"
+                        style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;">
+                        <div class="st-slidecontent" id="layerAB41C0CADEE2296F610FE1C0F3D71E79_stslider">
+                            <script type="text/javascript">
+                            </script>
+                            <!-- MAIN CONTENT -->
+                            <div class="imgloading" style="z-index:100;"></div>
+                            <div class="main-pichover-content layerAB41C0CADEE2296F610FE1C0F3D71E79">
+                                <div class="worksbox" id="worksbox0">
+                                    <p class="phbox"><img class="img_lazy_load phfront"
+                                            data-original="/assets/site1/picture/h03.png"
+                                            src="/assets/site1/picture/blank.gif" alt="" /><img class="phback"
+                                            src="/assets/site1/picture/h3.png" alt="" /></p>
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function () {
+                                    var boxh = parseInt(\'222\'), boxw = parseInt(\'94\'), speed = parseInt(\'300\');
+                                    $(\'.layerAB41C0CADEE2296F610FE1C0F3D71E79 #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function (e) {
+                                        var etype = e.type,
+                                            etarget = $(\'img.\' + ((etype == \'mouseenter\') ? \'phfront\' : \'phback\'), this);
+                                        switch (\'default\') {
+                                            case \'updown_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
+                                                etarget.animate({ top: topval + \'px\' }, speed).siblings(\'img\').animate({ top: \'0px\' }, speed);
+                                                break;
+                                            case \'leftright_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
+                                                etarget.animate({ left: leftval + \'px\' }, speed).siblings(\'img\').animate({ left: \'0px\' }, speed);
+                                                break;
+                                            case \'rollover\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                etarget.animate({ height: 0, top: (boxh / 2) + \'px\' }, speed, \'\', function () {
+                                                    $(this).siblings(\'img\').animate({ height: boxh + \'px\', top: 0 }, speed);
+                                                });
+                                                break;
+                                            case \'magnify\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var _target = etarget, params = {};
+                                                if (etype == \'mouseenter\') {
+                                                    _target = etarget.next(\'img.phback\');
+                                                    params = { "top": "0px", "left": "0px", "height": boxh + \'px\', "width": boxw + \'px\' };
+                                                } else {
+                                                    params = { "top": (boxh / 2) + "px", "left": (boxw / 2) + "px", "height": \'0px\', "width": \'0px\' };
+                                                }
+                                                _target.css("z-index", \'2\').animate(params, speed);
+                                                break;
+                                            default:
+                                                etarget.hide().siblings(\'img\').show();
+                                                break;
+                                        }
+                                    });
+                                    // 取消（每行）最右边图片容器的内右边距(bug#4396)
+                                    if ($._parseFloat("0") > 0) {
+                                        var $B = $(\'#layerAB41C0CADEE2296F610FE1C0F3D71E79 .worksbox\'),
                                             bp = [];
-                                    if (bp.length > 0) for(var i in bp) $B.filter(\':eq(\'+bp[i]+\')\').addClass("linend");
-                                    else $B.filter(\':last\').addClass("linend");
-                                    bp = $B = null;
-                                }
-                            });
-                        </script>
-</div></div></div>
-<script>		         $(\'#layerD23ADF0C559C9E50D4D8105864F7D41A\').triggerHandler(\'layer_ready\');</script>
-<div id="layer77D306543FF831F74A311EA55B21F290" type="title" class="cstlayer" style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid="" fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;"><div style="text-align:center;"><strong><span style="font-size:14px;">土壤与肥料检测技术</span></strong></div></div></div>
-<script>		         $(\'#layer77D306543FF831F74A311EA55B21F290\').triggerHandler(\'layer_ready\');</script>
-<div id="layer43F3F8D296C0280171C910D29338E8FD" type="title" class="cstlayer" style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid="" fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;"><p style="text-align:center;"><br /></p></div></div>
-<script>		         $(\'#layer43F3F8D296C0280171C910D29338E8FD\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer9454EFCFE4E44971825A86D4313A7C13\').triggerHandler(\'layer_ready\');</script>
-<div id="layer27895D48C9AADA71A6E8C69D5236AF95" type="box" class="cstlayer" style="left:0px;top:-30px;position:absolute;z-index:101;width:60px;height:90px;" mid="" fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0"><div class="wp-box_content drop_box" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;"><div id="layer1ED3CC3FEB680F16A6EEBFFBF59025F8" type="title" class="cstlayer" style="left:7.5px;top:32px;position:absolute;z-index:250;width:45px;height:44px;" mid="" fatherid="layer27895D48C9AADA71A6E8C69D5236AF95" deg="0"><div class="wp-title_content" style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;"><p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span style="font-size:14px;">核心</span></span></p><p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span style="font-size:14px;">技术</span></span></p></div></div>
-<script>		         $(\'#layer1ED3CC3FEB680F16A6EEBFFBF59025F8\').triggerHandler(\'layer_ready\');</script>
-</div></div>
-<script>		         $(\'#layer27895D48C9AADA71A6E8C69D5236AF95\').triggerHandler(\'layer_ready\');</script>
-</div></div>',
+                                        if (bp.length > 0) for (var i in bp) $B.filter(\':eq(\' + bp[i] + \')\').addClass("linend");
+                                        else $B.filter(\':last\').addClass("linend");
+                                        bp = $B = null;
+                                    }
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layerAB41C0CADEE2296F610FE1C0F3D71E79\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer3985BDCAE9007D1CE38BB48AC69C0801" type="title" class="cstlayer"
+                    style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid=""
+                    fatherid="layer12116C7D923A4D50FF73A650B5D4320A" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;">
+                        <div style="text-align:center;"><strong><span style="font-size:14px;">植物检测技术<span
+                                        style="font-size:16px;"></span></span></strong><br /></div>
+                    </div>
+                </div>
+                <script>		         $(\'#layer3985BDCAE9007D1CE38BB48AC69C0801\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>		         $(\'#layer12116C7D923A4D50FF73A650B5D4320A\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer5F8D8DBFF005770E7439C2F98A0F07A2" type="box" class="cstlayer"
+            style="left:900px;top:150px;position:absolute;z-index:112;width:300px;height:250px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;">
+                <div id="layer23ED265635D607D58B548940B8608124" type="title" class="cstlayer"
+                    style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid=""
+                    fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;">
+                        <div style="text-align:center;"><strong><span style="font-size:14px;">水质检测技术</span><span
+                                    style="font-size:14px;"></span></strong><br /></div>
+                    </div>
+                </div>
+                <script>		         $(\'#layer23ED265635D607D58B548940B8608124\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer2CA999A0D0734AD8C491CC6753B3EAB3" type="title" class="cstlayer"
+                    style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid=""
+                    fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;">
+                        <p style="text-align:center;"><br /></p>
+                    </div>
+                </div>
+                <script>		         $(\'#layer2CA999A0D0734AD8C491CC6753B3EAB3\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer949337C7D6C44900A4E264CA43348EF9" type="picture_hover" class="cstlayer"
+                    style="left:103px;top:0px;position:absolute;z-index:289;width:94px;height:222px;" mid=""
+                    fatherid="layer5F8D8DBFF005770E7439C2F98A0F07A2" deg="0">
+                    <div class="wp-picture_hover_content"
+                        style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;">
+                        <div class="st-slidecontent" id="layer949337C7D6C44900A4E264CA43348EF9_stslider">
+                            <script type="text/javascript">
+                            </script>
+                            <!-- MAIN CONTENT -->
+                            <div class="imgloading" style="z-index:100;"></div>
+                            <div class="main-pichover-content layer949337C7D6C44900A4E264CA43348EF9">
+                                <div class="worksbox" id="worksbox0">
+                                    <p class="phbox"><img class="img_lazy_load phfront"
+                                            data-original="/assets/site1/picture/h04.png"
+                                            src="/assets/site1/picture/blank.gif" alt="" /><img class="phback"
+                                            src="/assets/site1/picture/h4.png" alt="" /></p>
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function () {
+                                    var boxh = parseInt(\'222\'), boxw = parseInt(\'94\'), speed = parseInt(\'300\');
+                                    $(\'.layer949337C7D6C44900A4E264CA43348EF9 #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function (e) {
+                                        var etype = e.type,
+                                            etarget = $(\'img.\' + ((etype == \'mouseenter\') ? \'phfront\' : \'phback\'), this);
+                                        switch (\'default\') {
+                                            case \'updown_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
+                                                etarget.animate({ top: topval + \'px\' }, speed).siblings(\'img\').animate({ top: \'0px\' }, speed);
+                                                break;
+                                            case \'leftright_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
+                                                etarget.animate({ left: leftval + \'px\' }, speed).siblings(\'img\').animate({ left: \'0px\' }, speed);
+                                                break;
+                                            case \'rollover\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                etarget.animate({ height: 0, top: (boxh / 2) + \'px\' }, speed, \'\', function () {
+                                                    $(this).siblings(\'img\').animate({ height: boxh + \'px\', top: 0 }, speed);
+                                                });
+                                                break;
+                                            case \'magnify\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var _target = etarget, params = {};
+                                                if (etype == \'mouseenter\') {
+                                                    _target = etarget.next(\'img.phback\');
+                                                    params = { "top": "0px", "left": "0px", "height": boxh + \'px\', "width": boxw + \'px\' };
+                                                } else {
+                                                    params = { "top": (boxh / 2) + "px", "left": (boxw / 2) + "px", "height": \'0px\', "width": \'0px\' };
+                                                }
+                                                _target.css("z-index", \'2\').animate(params, speed);
+                                                break;
+                                            default:
+                                                etarget.hide().siblings(\'img\').show();
+                                                break;
+                                        }
+                                    });
+                                    // 取消（每行）最右边图片容器的内右边距(bug#4396)
+                                    if ($._parseFloat("0") > 0) {
+                                        var $B = $(\'#layer949337C7D6C44900A4E264CA43348EF9 .worksbox\'),
+                                            bp = [];
+                                        if (bp.length > 0) for (var i in bp) $B.filter(\':eq(\' + bp[i] + \')\').addClass("linend");
+                                        else $B.filter(\':last\').addClass("linend");
+                                        bp = $B = null;
+                                    }
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layer949337C7D6C44900A4E264CA43348EF9\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>		         $(\'#layer5F8D8DBFF005770E7439C2F98A0F07A2\').triggerHandler(\'layer_ready\');</script>
+        <div id="layerF89BC2239B05A5853DB667E1AA5D8BB5" type="line" class="cstlayer"
+            style="left:0px;top:180px;position:absolute;z-index:100;width:1200px;height:31px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-line_content"
+                style="padding:0px;border-color:transparent;border-width:0px;overflow:hidden;width:1200px;height:31px;border-style:solid;">
+                <div class="wpline-wrapper horizontal-solid"></div>
+                <script language="javascript">
+                </script>
+            </div>
+        </div>
+        <script>		         $(\'#layerF89BC2239B05A5853DB667E1AA5D8BB5\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer9454EFCFE4E44971825A86D4313A7C13" type="box" class="cstlayer"
+            style="left:300px;top:150px;position:absolute;z-index:103;width:300px;height:250px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:250px;background-color:transparent;width:300px;border-style:solid;background-position:center top;">
+                <div id="layerD23ADF0C559C9E50D4D8105864F7D41A" type="picture_hover" class="cstlayer"
+                    style="left:103px;top:0px;position:absolute;z-index:281;width:94px;height:222px;" mid=""
+                    fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0">
+                    <div class="wp-picture_hover_content"
+                        style="overflow:hidden;border-color:transparent;border-width:0px;width:94px;height:222px;border-style:solid;padding:0px;">
+                        <div class="st-slidecontent" id="layerD23ADF0C559C9E50D4D8105864F7D41A_stslider">
+                            <script type="text/javascript">
+                            </script>
+                            <!-- MAIN CONTENT -->
+                            <div class="imgloading" style="z-index:100;"></div>
+                            <div class="main-pichover-content layerD23ADF0C559C9E50D4D8105864F7D41A">
+                                <div class="worksbox" id="worksbox0">
+                                    <p class="phbox"><img class="img_lazy_load phfront"
+                                            data-original="/assets/site1/picture/h02.png"
+                                            src="/assets/site1/picture/blank.gif" alt="" /><img class="phback"
+                                            src="/assets/site1/picture/h2.png" alt="" /></p>
+                                </div>
+                            </div>
+                            <script type="text/javascript">
+                                $(function () {
+                                    var boxh = parseInt(\'222\'), boxw = parseInt(\'94\'), speed = parseInt(\'300\');
+                                    $(\'.layerD23ADF0C559C9E50D4D8105864F7D41A #worksbox0 .phbox\').bind(\'mouseenter mouseleave\', function (e) {
+                                        var etype = e.type,
+                                            etarget = $(\'img.\' + ((etype == \'mouseenter\') ? \'phfront\' : \'phback\'), this);
+                                        switch (\'default\') {
+                                            case \'updown_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var topval = (etype == \'mouseenter\') ? boxh : (0 - boxh);
+                                                etarget.animate({ top: topval + \'px\' }, speed).siblings(\'img\').animate({ top: \'0px\' }, speed);
+                                                break;
+                                            case \'leftright_slide\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var leftval = (etype == \'mouseenter\') ? boxw : (0 - boxw);
+                                                etarget.animate({ left: leftval + \'px\' }, speed).siblings(\'img\').animate({ left: \'0px\' }, speed);
+                                                break;
+                                            case \'rollover\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                etarget.animate({ height: 0, top: (boxh / 2) + \'px\' }, speed, \'\', function () {
+                                                    $(this).siblings(\'img\').animate({ height: boxh + \'px\', top: 0 }, speed);
+                                                });
+                                                break;
+                                            case \'magnify\':
+                                                if ($(\'img\', this).is(\':animated\')) $(\'img\', this).stop();
+                                                var _target = etarget, params = {};
+                                                if (etype == \'mouseenter\') {
+                                                    _target = etarget.next(\'img.phback\');
+                                                    params = { "top": "0px", "left": "0px", "height": boxh + \'px\', "width": boxw + \'px\' };
+                                                } else {
+                                                    params = { "top": (boxh / 2) + "px", "left": (boxw / 2) + "px", "height": \'0px\', "width": \'0px\' };
+                                                }
+                                                _target.css("z-index", \'2\').animate(params, speed);
+                                                break;
+                                            default:
+                                                etarget.hide().siblings(\'img\').show();
+                                                break;
+                                        }
+                                    });
+                                    // 取消（每行）最右边图片容器的内右边距(bug#4396)
+                                    if ($._parseFloat("0") > 0) {
+                                        var $B = $(\'#layerD23ADF0C559C9E50D4D8105864F7D41A .worksbox\'),
+                                            bp = [];
+                                        if (bp.length > 0) for (var i in bp) $B.filter(\':eq(\' + bp[i] + \')\').addClass("linend");
+                                        else $B.filter(\':last\').addClass("linend");
+                                        bp = $B = null;
+                                    }
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layerD23ADF0C559C9E50D4D8105864F7D41A\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer77D306543FF831F74A311EA55B21F290" type="title" class="cstlayer"
+                    style="left:75px;top:116px;position:absolute;z-index:100;width:150px;height:25px;" mid=""
+                    fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:25px;width:150px;display:block;">
+                        <div style="text-align:center;"><strong><span style="font-size:14px;">土壤与肥料检测技术</span></strong>
+                        </div>
+                    </div>
+                </div>
+                <script>		         $(\'#layer77D306543FF831F74A311EA55B21F290\').triggerHandler(\'layer_ready\');</script>
+                <div id="layer43F3F8D296C0280171C910D29338E8FD" type="title" class="cstlayer"
+                    style="left:49.5px;top:140px;position:absolute;z-index:101;width:201px;height:19px;" mid=""
+                    fatherid="layer9454EFCFE4E44971825A86D4313A7C13" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:19px;width:201px;display:block;">
+                        <p style="text-align:center;"><br /></p>
+                    </div>
+                </div>
+                <script>		         $(\'#layer43F3F8D296C0280171C910D29338E8FD\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>		         $(\'#layer9454EFCFE4E44971825A86D4313A7C13\').triggerHandler(\'layer_ready\');</script>
+        <div id="layer27895D48C9AADA71A6E8C69D5236AF95" type="box" class="cstlayer"
+            style="left:0px;top:-30px;position:absolute;z-index:101;width:60px;height:90px;" mid=""
+            fatherid="layer41707DA25B4B1746D589E9FC3FE02CF7" deg="0">
+            <div class="wp-box_content drop_box"
+                style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:90px;background-color:#258407;width:60px;border-style:solid;">
+                <div id="layer1ED3CC3FEB680F16A6EEBFFBF59025F8" type="title" class="cstlayer"
+                    style="left:7.5px;top:32px;position:absolute;z-index:250;width:45px;height:44px;" mid=""
+                    fatherid="layer27895D48C9AADA71A6E8C69D5236AF95" deg="0">
+                    <div class="wp-title_content"
+                        style="word-wrap:break-word;padding:0px;border-color:transparent;border-width:0px;height:44px;width:45px;display:block;">
+                        <p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span
+                                    style="font-size:14px;">核心</span></span></p>
+                        <p style="text-align:center;"><span style="color:#ffffff;font-family:微软雅黑;"><span
+                                    style="font-size:14px;">技术</span></span></p>
+                    </div>
+                </div>
+                <script>		         $(\'#layer1ED3CC3FEB680F16A6EEBFFBF59025F8\').triggerHandler(\'layer_ready\');</script>
+            </div>
+        </div>
+        <script>		         $(\'#layer27895D48C9AADA71A6E8C69D5236AF95\').triggerHandler(\'layer_ready\');</script>
+    </div>
+</div>',
 );
