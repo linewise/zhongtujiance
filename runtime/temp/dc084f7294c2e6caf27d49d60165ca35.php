@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:59:"/data/www/public/../application/site1/view/index/index.html";i:1616076947;s:52:"/data/www/application/site1/view/layout/default.html";i:1614354204;s:49:"/data/www/application/site1/view/common/meta.html";i:1614354204;s:49:"/data/www/application/site1/view/common/menu.html";i:1614781401;s:51:"/data/www/application/site1/view/common/footer.html";i:1614781698;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:59:"/data/www/public/../application/site1/view/index/index.html";i:1616685434;s:52:"/data/www/application/site1/view/layout/default.html";i:1598407630;s:49:"/data/www/application/site1/view/common/meta.html";i:1598520632;s:49:"/data/www/application/site1/view/common/menu.html";i:1614780871;s:51:"/data/www/application/site1/view/common/footer.html";i:1614781653;}*/ ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -279,7 +279,7 @@
                                 <div class="wp-title_content"
                                     style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 32px; width: 177px; display: block;">
                                     <span
-                                        style="font-size: 22px; font-family: 微软雅黑; color: rgb(255, 255, 255);"><strong>注农业生态监测</strong></span>
+                                        style="font-size: 22px; font-family: 微软雅黑; color: rgb(255, 255, 255);"><strong>注农业生态环境</strong></span>
                                 </div>
                             </div>
                             <script>		         $('#layer3BFBDD19431DB74AB5408F136CDD66D8').triggerHandler('layer_ready');</script>
