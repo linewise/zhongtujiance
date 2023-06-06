@@ -31,17 +31,17 @@ services:
         volumes:
             - /data/www/zhongtujiance:/data/www
 
-    task-client-wecom:
-        image: harbor.mobimedical.cn/rd/task-client-wecom
-        restart: always
-        hostname: task-client-wecom
-        container_name: task-client-wecom
-        networks:
-            - backend
-        environment:
-            - Env=master
-        volumes:
-            - /data/go/logs/task-client-wecom:/data/www/logs
+    # task-client-wecom:
+    #     image: harbor.mobimedical.cn/rd/task-client-wecom
+    #     restart: always
+    #     hostname: task-client-wecom
+    #     container_name: task-client-wecom
+    #     networks:
+    #         - backend
+    #     environment:
+    #         - Env=master
+    #     volumes:
+    #         - /data/go/logs/task-client-wecom:/data/www/logs
 
     nginx:
         image: nginx
