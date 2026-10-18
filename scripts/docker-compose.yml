@@ -1,63 +1,113 @@
-version: "3"
-
 services:
-    mysql:
-        image: mysql:5.7
-        restart: always
-        hostname: mysql
-        container_name: mysql
-        networks:
-            - backend
-        ports:
-            - 3306:3306
-        volumes:
-            - /data/mysql/logs:/var/log/mysql
-            - /data/mysql/datas:/var/lib/mysql
-            - /data/mysql/backups:/backups
-        environment:
-            MYSQL_USER: test
-            MYSQL_PASSWORD: N4F3ABaFui
-            MYSQL_ROOT_PASSWORD: RZ3X5mh8LUqkWNSh
+  mysql:
+    image: mysql:5.7
+    restart: always
+    hostname: mysql
+    container_name: mysql
+    networks:
+      - innet
+    ports:
+      - 3306:3306
+    volumes:
+      - /data/mysql/logs:/var/log/mysql
+      - /data/mysql/datas:/var/lib/mysql
+      - /data/mysql/backups:/backups
+    environment:
+      MYSQL_USER: test
+      MYSQL_PASSWORD: N4F3ABaFui
+      MYSQL_ROOT_PASSWORD: RZ3X5mh8LUqkWNSh
 
-    php:
-        image: myphp:v7.2
-        restart: always
-        hostname: php
-        container_name: php
-        networks:
-            - backend
-        ports:
-            - 9000:9000
-        volumes:
-            - /data/www/zhongtujiance:/data/www
+  php:
+    image: myphp:v7.2
+    restart: always
+    hostname: php
+    container_name: php
+    networks:
+      - innet
+    ports:
+      - 9000:9000
+    volumes:
+      - /data/www/zhongtujiance:/data/www
 
-    # task-client-wecom:
-    #     image: harbor.mobimedical.cn/rd/task-client-wecom
-    #     restart: always
-    #     hostname: task-client-wecom
-    #     container_name: task-client-wecom
-    #     networks:
-    #         - backend
-    #     environment:
-    #         - Env=master
-    #     volumes:
-    #         - /data/go/logs/task-client-wecom:/data/www/logs
+  mongo:
+    image: mongo
+    container_name: mongo
+    hostname: mongo
+    restart: always
+    networks:
+      - innet
+    volumes:
+      - /data/mongo/logs:/var/log/mongo
+      - /data/mongo/datas:/data/db
+      - /data/mongo/backups:/backups
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: fBPiICwPZtfg5JYA
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
 
-    nginx:
-        image: nginx
-        restart: always
-        hostname: nginx
-        container_name: nginx
-        networks:
-            - backend
-        ports:
-            - 80:80
-        volumes:
-            - /data/www/zhongtujiance:/data/www
-            - /data/www/zhongtujiance/nginx/logs:/var/log/nginx
-            - /data/www/zhongtujiance/nginx/config/conf.d:/etc/nginx/conf.d
-            - /data/www/zhongtujiance/nginx/config/nginx.conf:/etc/nginx/nginx.conf
-            - /data/www/zhongtujiance/nginx/config/includes:/etc/nginx/includes
+  redis:
+    image: redis
+    restart: always
+    hostname: redis
+    container_name: redis
+    networks:
+      - innet
+    command: redis-server --requirepass ZwpeCySh1mxcTGfu
+    volumes:
+      - /data/redis/logs:/var/log/redis
+      - /data/redis/datas:/data
+      - /data/redis/backups:/backups
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "ZwpeCySh1mxcTGfu", "ping"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  fire-admin:
+    image: harbor.mobimedical.cn/go/fire-patrol:admin
+    restart: always
+    hostname: fire-admin
+    container_name: fire-admin
+    networks:
+      - innet
+    volumes:
+      - /data/logs/fire-admin:/data/www/logs/
+    tty: true
+
+  fire-server:
+    image: harbor.mobimedical.cn/go/fire-patrol:server
+    restart: always
+    hostname: fire-server
+    container_name: fire-server
+    networks:
+      - innet
+    volumes:
+      - /data/logs/fire-server:/data/www/logs/
+    tty: true
+    environment:
+      - MONGO_URL=mongodb://test:N4F3ABaFui@mongo:27017/test
+      - REDIS_URL=redis://:ZwpeCySh1mxcTGfu@redis:6379
+
+  nginx:
+    image: nginx
+    restart: always
+    hostname: nginx
+    container_name: nginx
+    networks:
+      - innet
+    ports:
+      - 80:80
+    volumes:
+      - /data/www/zhongtujiance:/data/www
+      - /data/www/zhongtujiance/nginx/logs:/var/log/nginx
+      - /data/www/zhongtujiance/nginx/config/conf.d:/etc/nginx/conf.d
+      - /data/www/zhongtujiance/nginx/config/nginx.conf:/etc/nginx/nginx.conf
+      - /data/www/zhongtujiance/nginx/config/includes:/etc/nginx/includes
 
 networks:
-    backend:
+  innet:

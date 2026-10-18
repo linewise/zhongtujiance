@@ -34,8 +34,8 @@ return array (
   'logo_image' => '/uploads/20200825/683d97e4cead9632a101dda0d81d25a6.png',
   'logo_image1' => '/uploads/20201103/61955dc8600e435b64de37ce23a46d4d.jpg',
   'name1' => '四川中土检测检验有限公司',
-  'tel1' => '028-64164403',
-  'cz1' => '028-64164403',
+  'tel1' => '028-87996696',
+  'cz1' => '028-87996696',
   'email' => 'tangjie19B@163.com',
   'address1' => '四川省成都市郫都区菁蓉镇红旗大道北段20-28号',
   'banner1' => 
