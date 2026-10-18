@@ -32,7 +32,7 @@ services:
       - /data/www/zhongtujiance:/data/www
 
   mongo:
-    image: mongo:8.3.13
+    image: mongo:7.0.45
     container_name: mongo
     hostname: mongo
     restart: always
