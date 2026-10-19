@@ -96,6 +96,8 @@ services:
     environment:
       - MONGO_URL=mongodb://test:N4F3ABaFui@mongo:27017/test
       - REDIS_URL=redis://:ZwpeCySh1mxcTGfu@redis:6379
+      - APPID=wxf76c911ba896e15c
+      - APPSECRET=43c803b551a31930a7b33125be615a43
 
   nginx:
     image: nginx
