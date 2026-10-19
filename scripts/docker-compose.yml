@@ -82,6 +82,8 @@ services:
     volumes:
       - /data/logs/fire-admin:/data/www/logs/
     tty: true
+    environment:
+      - NEXT_PUBLIC_API_BASE=http://www.zhongtujiance.com/fire/server
 
   fire-server:
     image: harbor.mobimedical.cn/go/fire-patrol:server
