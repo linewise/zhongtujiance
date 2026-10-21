@@ -108,12 +108,14 @@ services:
       - innet
     ports:
       - 80:80
+      - 443:443
     volumes:
       - /data/www/zhongtujiance:/data/www
       - /data/www/zhongtujiance/nginx/logs:/var/log/nginx
       - /data/www/zhongtujiance/nginx/config/conf.d:/etc/nginx/conf.d
       - /data/www/zhongtujiance/nginx/config/nginx.conf:/etc/nginx/nginx.conf
       - /data/www/zhongtujiance/nginx/config/includes:/etc/nginx/includes
+      - /etc/letsencrypt:/etc/letsencrypt:ro
 
 networks:
   innet:
